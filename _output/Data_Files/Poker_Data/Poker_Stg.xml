@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester"/>
+  <regdata key="city" value="United Kingdom"/>
+  <regdata key="City_Web" value="Middx"/>
+  <regdata key="City_Mobile" value="Middx"/>
+  <regdata key="Password" value="Password1"/>
+
+  <!--Poker Login Data-->
+  <lgndata key="User" value="Useruofwmty" />
+  <lgndata key="Pass" value="Password1" />
+  <lgndata key="Fname" value="fname" />
+
+  <!--Sports Login Data-->
+  <lgnsdata key="User" value="Useruoeyqdam" />
+  <lgnsdata key="Pass" value="Password1" />
+  <lgnsdata key="Fname" value="XYZ" />
+
+  <!--Deposit limit-->
+  <depLimt key="User" value="Useruoffjcbg" />
+  <depLimt key="Pass" value="Password1" />
+  <depLimt key="Fname" value="XYZ" />
+  <depLimt key="Amnt" value="251" />
+
+  <!--Responsible Gambling Data-->
+  <rgdata key="User" value="Useruoeyqeaw" />
+  <rgdata key="Pass" value="Password1" />
+  <rgdata key="Fname" value="XYZ" />
+
+
+  <ccdata key="CCUser" value="Useruoeyqeaw" />
+  <ccdata key="CCPass" value="Password1" />
+  <ccdata key="CCFname" value="Preethi" />
+  <ccdata key="CCard" value="5413615100001390" />
+  <ccdata key="CCAmt" value="5" />
+
+
+  <!--Poker Banking netteller Data (458591047553)-->
+  <depdata key="CCUser" value="test_aditi_0905" />
+  <depdata key="CCPass" value="Lbr1234" />
+  <depdata key="CCFname" value="fname" />
+  <depdata key="CCard" value="411392" />
+  <depdata key="CCAmt" value="12" />
+  <depdata key="depWallet" value="VEGAS" />
+  <depdata key="withWallet" value="SPORTS" />
+  <depdata key="FromWallet" value="Sportsbook" />
+  <depdata key="ToWallet" value="Gaming" />
+  <depdata key="TransWalletDropDown" value="VEGAS;SPORTS;GAMES" />
+  <depdata key="TransWalletTable" value="Gaming;Sportsbook;Games" />
+  <netdata key="account_id" value="458591047553" />
+  <netdata key="account_pwd" value="411392" />
+
+  <!--VISA Credit card-->
+  <Visadata key="deptWallet1" value="SPORTS" />
+  <Visadata key="deptWallet2" value="VEGAS" />
+  <Visadata key="deptWallet3" value="EXCHANGE" />
+  <Visadata key="deptWallet4" value="GAMES" />
+  <Visadata key="VISA_CCard" value="4000000350297679" />
+  <Visadata key="credit_card_user" value="test_aditi_april16" />
+
+
+</controls>

@@ -1,0 +1,19 @@
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\TestData.config
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\chromedriver.exe
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\IEDriverServer.exe
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\TestSettings.config
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Resources\Customers.resx
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Resources\Customers.Designer.cs
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\Regression_AnW\obj\Debug\Regression_AnW_stg.csprojResolveAssemblyReference.cache
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Regression_AnW_stg.dll
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\_output\Regression_AnW_stg.pdb
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\Regression_AnW\obj\Debug\Regression_AnW_stg.dll
+C:\Project\IMS\ICE\Controller\ICE\8th April_AnW\Regression_AnW\obj\Debug\Regression_AnW_stg.pdb

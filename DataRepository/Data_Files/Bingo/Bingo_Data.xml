@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Registration-->
+  <ccdata key="CCUser" value="testaditi21mstg" />
+  <ccdata key="CCPass" value="123456" />
+  <ccdata key="CCFname" value="Preethi" />
+  <ccdata key="CCard" value="5413615100001390" />
+  <ccdata key="CCAmt" value="5" />
+</controls>

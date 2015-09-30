@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+    
+  <!--Deposit-->
+  <xpath key="account_button" value="//a[@class='account-toggle' and contains(string(),'Account')]"/> 
+  <xpath key="deposit_link" value="//div[@class='my-account']//span[text()='Deposit']"/>
+  <xpath key="Card_link" value="//div[contains(@class,'card-heading')]/a/div[contains(normalize-space(),'VISA')]"/>
+  <xpath key="Deposit_Success" value="//span[contains(string(),'credited') and contains(string(),'10')]"/>
+
+  <id key="Cvv_text" value="CvvNo"/>
+  <id key="Deposit_Btn" value="deposit"/>
+  
+  <name key="Amount_text" value="bank[amountEntered]"/>  
+  <name key="Amount2_text" value="bank[amountEntered2]"/>
+  <name key="Wallet_cmb" value="bank[amountTo]"/>
+
+  <!--Withdraw-->
+
+  <id key="WAmount_text" value="wamountEntered"/>
+  <id key="WAmount2_text" value="wamountEntered2"/>
+  <id key="withdraw_Tab" value="withdrawTab"/>  
+  <id key="Confirmation_Ok" value="topUpDialog-deposit"/>
+  <id key="withdraw_PopupContinue_btn" value="topUpDialog-deposit"/>
+  
+  <name key="WihdrawWallet_cmb" value=" withdraw[amountFrom]"/>
+  <name key="PayTo_cmb" value="withdraw[paymentMethod]"/>
+  
+  <xpath key="Withdraw_Success" value=" //span[contains(string(),'Success') and @class='p_title']"/>
+  <xpath key="Withdraw_btn" value="//input[@name='submit' and @id='withdraw']"/>
+  <xpath key="Withdraw_insufficientBal_error" value="//div[@class='red_info' and contains(string(),'Insufficient Funds')]"/>
+
+  <xpath key="Withdraw_depositfrom_error" value="//div[contains(@class,'depositfromformError')]//div[@class='formErrorContent']"/>
+  <xpath key="Withdraw_depositto_error" value="//div[contains(@class,'deposittoformError')]//div[@class='formErrorContent']"/>
+ <xpath key="Withdraw_wamountEntered_error" value="//div[contains(@class,'wamountEnteredformError']//div[@class='formErrorContent']"/>
+
+</controls>

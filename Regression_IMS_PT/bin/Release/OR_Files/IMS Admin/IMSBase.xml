@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--IndexPage-->
+
+  <name key="username" value="username" />
+  <name key="password" value="password" />
+  <name key="Submit" value="Submit" />
+  <link key="ManageUser" value="Manage users" />
+
+  
+
+
+</controls>

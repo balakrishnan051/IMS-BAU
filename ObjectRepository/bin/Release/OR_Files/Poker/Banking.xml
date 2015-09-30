@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Deposit page-->
+  <xpath key="DepsoitSuccess" value="//h1[contains(text(),'Your deposit succeeded!')]" />
+
+  <!--My Acct page-->
+  <!--xpath key="NewLanguage_MYAcct" value="//span[text()='Ihr Konto']" /-->
+  <xpath key="NewLanguage_MYAcct" value="//label[text()='Titel']" />
+
+  <!--paypal Deposit page-->
+  <id key="amount_textBox" value="textAmount" />
+</controls>

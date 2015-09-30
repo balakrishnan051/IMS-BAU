@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--MyAcct-->
+  <link key="myAcct_lnk" value="My Account" />  
+  <link key="change_Pwd_lnk" value="Change Password" />
+  <link key="personal_details_lnk" value="Personal details" />
+  <link key="responsible_gambling_lnk" value="Responsible Gambling" />
+  <link key="account_history_lnk" value="Account History" />
+  <link key="free_bets_lnk" value="Free Bets" />
+  <link key="preferences_lnk" value="Preferences" />
+  <id key="old_pwd_textBox" value="oldPassword" />
+  <id key="new_pwd_textBox" value="newPassword" />
+  <id key="new_Pwd_verify_textBox" value="newPasswordVerification" />
+  <id key="change_pwd_btn" value="changePassword" />
+  <id key="postcode_textBox" value="postCode" />
+  <id key="address_textBox" value="address" />
+  <id key="telephone_textBox" value="telephone" />
+  <id key="mobile_textBox" value="mobile" />
+  <id key="submit_personal_detail_btn" value ="_updatemydetails_WAR_accountportlet_updateMyDetailsSubmit" />
+  <id key="directmail_chk" value="promotionalNotificationDirectMail" />
+  <id key="submit_btn" value="_updatemydetails_WAR_accountportlet_updateMyDetailsSubmit" />
+  <id key="mydetails_tab" value="my-details" />
+  <xpath key="confirmation_text" value="//div[@class='portlet-msg portlet-msg-info']" />
+  <xpath key="account_history_menu_tab" value="//form[@id='account-history-menu-tabs']" />
+  <id key="submit_free_bets_btn" value="freebets-submit" />
+  <id key="betting_pref_save_btn" value="betting-pref-save" />
+  <xpath key="preference_Enable_Chkbox" value="id('betting-preference-form')//span[contains(text(),'Enable')]" />
+  <xpath key="invalid_pwd_error" value="//div[@class='portlet-msg portlet-msg-error']" />
+  
+  <!--MyDetails-->
+  <link key="msg_lnk" value="Messages" />
+  <link key="Alert_lnk" value="Alerts" />
+  <link key="Odds_lnk" value="Odds On!" />
+  
+  <!--FreeBet page-->
+  <xpath key="Reward_lbl" value="//div[contains(text(),'Rewards Available')]"/>
+  <xpath key="freeBet_lbl" value="//p[contains(string(),'Free Bets')]"/>
+ 
+
+  
+  <!--Unknown-->
+  <name key="ToWallet" value="bank[amountTo]" />
+  <id key="title_ddn" value="title" />
+  <xpath key="title_error" value="//div[@class='form-label error']/label[contains(text(),'Title')]/span[@class='asterisk']" />
+  <xpath key="answer_error" value="//div[@class='form-label  error']/label[contains(text(),'Answer')]/span[@class='asterisk']" />
+  <xpath key="pwd_error" value="//div[@class='form-label  error']/label[@for='userPassword']/span[@class='asterisk']" />
+  <xpath key="securityQues_error" value="//div[@class='form-label error']/label[contains(text(),'Security')]/span[@class='asterisk']" />
+  <xpath key="email_error" value="//div[@class='form-label  error']/label[contains(text(),'Email')]/span[@class='asterisk']" />
+  <xpath key="uname_error" value="//div[@class='form-label  error']/label[contains(text(),'User Name')]/span[@class='asterisk']" />
+  <xpath key="pwdConfirm_error" value="//div[@class='form-label  error']/label[contains(text(),'Confirm Password')]/span[@class='asterisk']" />
+
+
+  <!--Deposit page-->
+  <xpath key="DepositTab" value="//li/a[contains(string(),'Deposit')]"/>
+  <xpath key ="TransactionTab" value="//li/a[contains(string(),'Transaction history')]" />
+  
+  <xpath key="Visa_img" value="id('VISAPm')//span"/>
+  <xpath key="NetTeller_img" value="id('NETellerPm')//span"/>
+  <xpath key="Mastro_img" value="id('MAESTROPm')//span"/>
+  
+  <xpath key="DepLimitUnset_err" value="//span[@name='error-PAYMENTS-1014']"/>
+  <xpath key="add_new_paymethod" value="//span[@name='accounts_add_new_payment_options']"/>
+  <xpath key="depLimit_txt" value="//span[@class='info2']"/>
+  
+    
+  <!--PaymentMethods page-->
+  <id key="Netteller_img" value="NETellerPm" />
+  <id key="PayPal_img" value="PayPalPm" />
+  <id key="Visa_img" value="VISAPm" />
+  <id key="Mastro_img" value="MAESTROPm" />
+  <id key="MasterCard_img" value="MCPm" />
+  <id key="Skrill_img" value="SkrillPm" />
+  <id key="Euteller_img" value="EnvoyPm" />
+  <id key="EntroPay_img" value="ENTROPAYPm" />
+  
+
+  <!--<id key="Amount_txt" value="textAmount" />-->
+  <id key="Amount_txt" value="_cashierdeposit_WAR_CashierDepositportlet_amount" />
+  <id key="promoCode" value="promoCode" />
+  <!--<id key="sourceWallet_cmb" value="sourceWallet" />-->
+  <id key="sourceWallet_cmb" value="_cashierdeposit_WAR_CashierDepositportlet_ftWalletNameCombo" />
+  <!--<id key="deposit_btn" value="depositButton" />-->
+  <xpath key="deposit_btn" value="//button[contains(text(),'Deposit')]" />  
+  <!--<id key="NettellerPwd_txt" value="accountPsw"/>-->
+  <id key="NettellerPwd_txt" value="_cashierdeposit_WAR_CashierDepositportlet_accountPwd"/>
+  <id key="neteller_accountId" value="_cashierdeposit_WAR_CashierDepositportlet_accountId" />
+  
+  <xpath key="neteller_payment_tab" value="id('payment-type')/li[@data-methodcode='NETeller']/a" />
+  <id key="neteller_accounts" value="NETellerPm" />
+  <xpath key="amntExcedMsg" value="//span[@class='text-msg' and contains(@name,'amount.big')]"/>
+  <id key="creditcard_cvv" value="gdCvv2" />
+  <link key="goback_lnk" value="Go back" />
+  
+  
+  <!--Withdraw page-->
+  <xpath key="WithdrawTab" value="//li[a[span[normalize-space()='Withdraw']]]"/>
+  <xpath key="Confirmation_Dlg" value="//button[text()='Ok']"/>
+  <xpath key="Withdraw_btn" value="//button[contains(text(),'Withdraw')]"/>
+  <xpath key="Success_Dlg" value="//div[text()='Withdrawal request was successfully registered']"/>  
+  <id key="wAmount_txt" value="_cashierwithdraw_WAR_CashierWithdrawportlet_amount" />
+  <id key="destinationWallet_cmb" value="destinationWallet" />
+  
+  <!--Withdraw error page-->
+  <xpath key="IncorrectWithdrawAmt_err" value="//span[@class='text-msg' and contains(text(),'incorrect')]"/>
+  <xpath key="BlankWithdrawAmt_err" value="//span[@class='text-msg' and contains(text(),'Amount is below')]"/>
+  
+  <!--Cancel Withdraw page-->
+  <xpath key="CancelWithdrawTab" value="id('navigation-inner')/li[a[span[normalize-space()='Pending Withdrawals']]]"/>
+  <xpath key="CancelConfirmation_Dlg" value="//button[text()='Confirm Cancel']"/>
+  <xpath key="Cancel_btn" value="//tr[td[contains(text(),'Pending')]][1]//input"/>
+  <id key="log_button_UserName" value="welcome" />
+  <xpath key="Username_btn" value="//a[contains(@class,'user')]//span"/>
+
+  
+  <!--Transfer page-->
+  <xpath key="TAmount_txt" value="//input[contains(@id,'amount')]" />
+  <xpath key="transferFrom_cmb" value="//*[contains(@id,'transferFrom')]" />
+  <xpath key="transferTo_cmb" value="//*[contains(@id,'transferTo')]" />
+  <xpath key="TransferTab" value="//li[a[span[normalize-space()='Transfer']]]"/>
+  <xpath key="SuccessConfirmation_Dlg" value="id('submitSuccess')/div/span"/>
+  <xpath key="ConfirmationOK_btn" value="//div[contains(text(),'Your Transfer was successful')]"/>
+  <xpath key="Transfer_Btn" value="//button[contains(text(),'Transfer')]"/>
+  <xpath key="Invalidamt_error" value="//span[contains(text(),'insufficient funds')]"/>
+  <xpath key="Transer_error" value="//span[contains(@name,'error')]"/>
+  <xpath key="Transer_insuffBal" value="//div[contains(text(),'You have insufficient funds for this request')]"/>
+
+  <!--Responsible Gambling-->
+  <id key ="limit_deposit_daily" value="limitDepositDaily" />
+  <id key ="limit_deposit_weekly" value="limitDepositWeekly" />  
+  <id key="resp_gambling_submit" value="respGaming" />
+  <xpath key="resp_gamb_confimation" value="//div[@class='feedback']" />
+  <name key="daily_deposit_period" value="deposit-period" /> 
+  <link key="Logout" value="Logout" />
+
+  <!--Ecom-->
+    <link key="Banking" value="Banking" />
+  
+  
+  <!--Sports Login-->
+  <!--<id key="sports_login_user" value="username" />
+  <id key="sports_login_pwd" value="password" />-->
+  <id key="password_clear" value="password-clear" />
+  <xpath key="sports_login_btn" value="//a[contains(@class,'login')]" />
+  <xpath key="sports_logout_btn" value="//a[contains(.,'Log out')]" />
+  <xpath key="sports_open_account" value="//a[contains(@class,'open_account')]" />
+  <xpath key="welcome_txt" value="//span[@class='welcome']" />
+
+  <!--Credit card registration-->
+  <link key="deposit_lnk" value="Deposit" />
+  <name key="add_new_account_lnk" value="accounts_add_new_payment_options" />
+  <id key="credit_number" value="cc_card_number" />
+  <id key="expiry_month" value="cc_exp_month" />
+  <id key="expiry_year" value="cc_exp_year" />
+  <id key="cvv_code" value="cc_cvv2" />
+  <id key="cvv_CC_deposit" value="gdCvv2" />
+  <id key="continue_btn" value="continueButton" />
+  <id key="visa_pm" value ="VISAPm"/>
+  <link key="visa_link" value="VISA" />
+  <xpath key="visa_tab" value="//li[contains(@id,'link-paymentmethod-tab-1')]/a[contains(string(),'VISA')]" />
+  <xpath key="Master_tab" value="//li[contains(@id,'link-paymentmethod-tab-1')]/a[contains(text(),'MC')]" />
+  <xpath key="Entro_tab" value="//li[contains(@id,'link-paymentmethod-tab-1')]/a[contains(text(),'ENTRO')]" />
+  
+  <xpath key="deposit_tab" value="id('navigation-inner')//a[contains(string(),'Deposit')]" />
+  <id key="deposit_tab_iframe" value="_cashier2iframe_WAR_cashierportlet_cashier2" />
+  <name key="credit_card_frame" value="depositRedirectIframe" />
+  <id key="source_wallet_select" value="sourceWallet" />
+  <id key="destination_wallet" value="destinationWallet" />
+  <id key="ammount_textbox" value="amount" />
+  <xpath key="withdraw_submit_btn" value="//button[@type='submit']" />
+  <xpath key="Withdraw_ConfirmationOK_btn" value="id('withdrawconfirmdialog')//button[@class='ok']"/>
+  <xpath key="status_text_msg" value="id('statusdialog')//span[@name='genericWithdraw_success_message']" />
+  <xpath key="status_ok_btn" value="id('statusdialog')//button" />
+  <id key="deposit_text_amount" value="textAmount" />
+  <name key="header_username" value="header_username" />
+
+  <!--paypal page-->
+  <id key="paypal_email_text" value="login_email" />
+  <id key="paypal_pwd_text" value="login_password" />
+  <id key="paypal_submit_btn" value="submitLogin" />
+  <id key="paypal_paynow_btn" value="continue_abovefold" />
+  <link key="close_window_link" value="Close window" />
+  <!--Deposit page-->
+  <xpath key="PP_DepsoitSuccess" value="//div[@class='m-inner']//h1[contains(text(),' Your deposit succeeded!')]" />
+  
+  <!--Paysafe page-->
+  <xpath key="paysafe_tab" value="//li[contains(@id,'link-paymentmethod-tab-1') and @data-type='PaySafeCard']//a" />
+  <id key="paysafe_dep_btn" value="depositButton" />
+  <id key="paysafe_pin1" value="pinForm:rn01" />
+  <id key="paysafe_pin2" value="pinForm:rn02" />
+  <id key="paysafe_pin3" value="pinForm:rn03" />
+  <id key="paysafe_pin4" value="pinForm:rn04" />
+  <id key="paysafe_pay_btn" value="pinForm:pay" />
+  <xpath key="patsafe_acc_check" value="//span[contains(@class,'checkbox')]" />
+
+  <!--BetCard page-->
+  <xpath key="betCard_tab" value="  //li[contains(@id,'link-paymentmethod-tab-1') and @data-type='BetCard']//a" />
+  <id key="Voucher_txt" value="field3" />
+
+  <!--Webmoney page-->
+  <xpath key="webmoney_tab" value="//li[contains(@id,'link-paymentmethod-tab-1') and contains(@data-type,'WEBMONEY')]/a" />
+
+  <!--Qiwi page-->
+  <xpath key="qiwi_tab" value="//li[contains(@id,'link-paymentmethod-tab-1') and contains(@data-type,'Qiwi')]/a" />
+  <xpath key="phone_txt" value="//input[contains(@id,'txtWalletId')]" />
+  <xpath key="Proceed_btn" value="//input[@value='Proceed']" />
+  <xpath key="Go_btn" value="//input[@value='Go']" />
+
+  <!--Skrill page-->
+  <id key="skrill_email_text" value="email" />
+  <id key="skrill_pwd_text" value="password" />
+  <id key="skrill_submit_btn" value="login" />
+  <id key="skrill_paynow_btn" value="confirm_and_pay" />
+  <xpath key="skrill_close" value="//a[contains(.,'Go back')]" />
+  <xpath key="skrill_DepsoitSuccess" value="//div[@class='m-inner']//h1[contains(text(),' Your deposit was successful')]" />
+
+<!--AVtransfer-->
+  <xpath key="av_transfer_error" value="//div[@id='globalErrors']//span[@class='text-msg']"/>
+</controls>

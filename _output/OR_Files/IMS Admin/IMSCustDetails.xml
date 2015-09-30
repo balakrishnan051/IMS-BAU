@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<controls>
+
+  <!--Player details-->
+  <id key="CreditCard_Tab" value="creditcards_navigation" />
+  
+  
+  <!--Credit Card details page-->
+  <id key="FreezeCC_btn" value ="freeze"/>
+  <id key="UnFreezeCC_btn" value ="unfreeze"/>
+  <xpath key="CreditCardDetails_Page" value ="//div[contains(text(),'Change Credit Card')]"/>
+  <id key="reverse_duplicate_btn" value="CreditCardInfo:reverseduplicate" />
+  <id key="allow_duplicate_btn" value="CreditCardInfo:duplicate" />
+  <id key="changepwd" value="changepwd" />
+  <id key="password1" value="password1" />
+
+  <!--Fund Transfer details page-->
+  <xpath key="success_msg" value ="//div[@class='feedback success']"/>
+  <id key="makeTransfer_btn" value="submit_0" />
+  <id key="fundTransfer_lnk" value="playerFundTransfer_navigation" />
+  <id key="fromWallet_cmb" value="fromSelect" />
+  <id key="toWallet_cmb" value="toSelect" />
+  <id key="clientChannel_cmb" value="clientChannelSelect" />
+  <id key="amount_txt" value="amount" />
+
+  <!--Withdraw approval page-->
+  <id key="wd_requests_lnk" value="wdrequests_navigation" />
+  <id key="process_btn" value="process" />
+  <id key="status_cmb" value="handling_8511548" />
+  <id key="makePmnt_btn" value="submitContinue" />
+  <id key="confirmPmnt_btn" value="submitApprove" />
+  <id key="pay_success_msg" value="message-info-1" />
+  <id key="transactions_lnk" value="transactions_navigation" />
+  <xpath key="recentReq_lnk" value ="//form[@id='wdrequests']//table//tr[2]//td[1]/a"/>
+  <xpath key="status_lnk" value ="//form[@id='transactions']//table[@class='result']//tr[2]//td[7]"/>
+  <xpath key="SE_Period_cmb" value ="//div[@id='selfExclusion']//select[@id='select_1']"/>
+ 
+</controls>
+

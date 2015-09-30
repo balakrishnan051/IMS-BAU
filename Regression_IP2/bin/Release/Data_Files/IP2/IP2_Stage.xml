@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<controls>
+  <regUrl key="vegas_reg" value="http://account-stg.ladbrokes.com/en/registration?redirect_url=http://vegas-stg.ladbrokes.com&amp;clientType=casino&amp;clientPlatform=web&amp;clientChannel=I&amp;system_source=VGS&amp;system_source_id=VGS_WEB" />
+  <Url key="lottos_url" value="https://stg-lottos.ladbrokes.com/en" />
+  <Url key="backgomman_url" value="http://stg-backgammon.ladbrokes.com/en" />
+  <Url key="telebet_Reg_url" value="http://account-stg.ladbrokes.com/en/registration-telebet" />
+  <!--sites P=PT,S=Sports,G=Games,L=Lottos,E=Ecom,B=BackGammon, X= Exchange-->
+  <availableProd key="sites" value="P,S,G,L,X" />
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester" />
+  <regdata key="country_UK" value="United Kingdom" />
+  <regdata key="country_Bel" value="Belgium" />
+  <regdata key="City_Web" value="Harrow" />
+  <regdata key="City_Mobile" value="Middx" />
+  <regdata key="Password" value="Lbr123456" />
+  <regdata key="PromoCode" value="F50" />
+  <eventdata key="eventID" value="Super Bowl 50" />
+  <eventID key="sel1" value="1/8" />
+  <!-- Other Country data-->
+  <regdata key="country_germany_german" value="Deutschland" />
+  <regdata key="country_Swedish_Swedan" value="Sverige" />
+  <regdata key="country_germany" value="Germany" />
+  <regdata key="country_uganda" value="Uganda" />
+  <regdata key="country_Russia" value="Russia" />
+  <regdata key="country_indonesia" value="Indonesia" />
+  <regdata key="country_Ireland" value="Republic of Ireland" />
+  <regdata key="currency_euro" value="EUR" />
+  <regdata key="currency_USD" value="USD" />
+  <regdata key="currency_AUD" value="AUD" />
+  <regdata key="country_UK_code" value="44" />
+  <regdata key="country_germany_code" value="49" />
+  <regdata key="countryCode_singapore" value="SG" />
+  <regdata key="country_Finland" value="Finland" />
+  <regdata key="countryCode_finland" value="FI" />
+  <regdata key="countryCode_uganda" value="UG" />
+  <regdata key="country_Banned" value="Bangladesh" />
+  <!-- Login data-->
+  <lgndata key="user" value="test_uAuto_55" />
+  <lgndata key="pwd" value="Lbr123456" />
+  <lgnattempt key="count" value="3" />
+  <!-- Login data session-->
+  <lgnsdata key="user" value="test_uAuto80" />
+  <lgnsdata key="pwd" value="Lbr123456" />
+  <!-- Closed cust data-->
+  <clgndata key="user" value="Useruphkoayax" />
+  <clgndata key="pwd" value="Lbr123456" />
+  <!-- Invalid Login data-->
+  <ilgndata key="user" value="Useruphkpdbb" />
+  <ilgndata key="pwd" value="Lbr123456" />
+  <!-- Netteller data-->
+  <netdata key="account_id" value="458591047553" />
+  <netdata key="account_pwd" value="411392" />
+  <netdata key="dAmt" value="5" />
+  <netdata key="GamesWallet" value="Games &amp; Lottos" />
+  <netdata key="VegasWallet" value="Main Wallet" />
+  <netdata key="eXWallet" value="Exchange" />
+  <depdata key="user" value="Useruphnkajw" />
+  <depdata key="pwd" value="Lbr123456" />
+  <depdata key="depWallet" value="Main Wallet" />
+  <depdata key="toWallet" value="Games &amp; Lottos" />
+  <depdata key="dAmt" value="10" />
+  <depdata key="wAmt" value="5" />
+  <!-- Deplimit data-->
+  <depLimt key="user" value="Useruphkobaac" />
+  <depLimt key="pwd" value="Lbr12345678" />
+  <depLimt key="depWallet" value="Main Wallet" />
+  <depLimt key="dAmt" value="260" />
+  <!-- Visa data data-->
+  <vccdata key="user" value="Useruphkoaur" />
+  <vccdata key="pwd" value="Lbr123456" />
+  <vccdata key="card" value="4716256642449750" />
+  <vccdata key="depWallet" value="Main Wallet" />
+  <vccdata key="dAmt" value="10" />
+  <vccdata key="CVV" value="123" />
+  <!--Quick Deposit-->
+  <qbetdata key="user" value="Useruphkoaxu" />
+  <qbetdata key="pwd" value="Lbr123456" />
+  <qbetdata key="card" value="4539037770199788" />
+  <qbetdata key="dAmt" value="5" />
+  <qbetdata key="depWallet" value="Main Wallet" />
+  <!--<qbetdata key="event" value="Barcelona v Granada" />-->
+  <!-- SelfExcl Approve data - Netteller-->
+  <!--test_aditi_AQBTBTAQA-->
+  <swdata key="user" value="Useruphkpjav" />
+  <swdata key="pwd" value="Lbr123456" />
+  <!--4000053489136888-->
+  <sw2data key="user" value="Useruphkobeab" />
+  <sw2data key="pwd" value="Lbr123456" />
+  <swdata key="depWallet" value="Main Wallet" />
+  <swdata key="dAmt" value="5" />
+  <sw2data key="dAmt" value="15" />
+  <!-- CreditCard in IMS data-->
+  <ccdata key="CCAmt" value="10" />
+  <ccdata key="depWallet" value="Main Wallet" />
+  <ccdata key="CVV" value="123" />
+  <!-- loyality data 627625-->
+  <ldata key="user" value="loyaltyStage95" />
+  <fulldata key="user" value="627625" />
+  <fulldata key="pwd" value="Lbr1234567" />
+  <fulldata key="sx_user" value="loyaltyStage03" />
+  <fulldata key="sx_pwd" value="Lbr123456" />
+  <!--self excluded full customer-->
+  <retaildata key="sx_user" value="loyaltyStage132" />
+  <retaildata key="sx_pwd" value="Lbr1234567" />
+  <!--Restricted Login-->
+  <rlgndata key="user" value="Useruphkpdbc" />
+  <rlgndata key="pwd" value="Lbr123456" />
+  <!-- Restricted Deposit data-->
+  <rdepdata key="user" value="Useruphkpnd" />
+  <rdepdata key="pwd" value="Lbr123456" />
+  <rdepdata key="depWallet" value="Games &amp; Lottos" />
+  <rdepdata key="toWallet" value="Games &amp; Lottos" />
+  <rdepdata key="dAmt" value="10" />
+  <rdepdata key="wAmt" value="5" />
+  <!--Restricted Territory rules-->
+  <restData key="pokerRule" value="Block poker on login from banned country IP" />
+  <restData key="pokerCountry" value="IN" />
+  <restData key="Report_RestCountry" value="LB Fraud cases" />
+  <!--error msg-->
+  <err key="PT_Invalid_Lgn" value="Either your username or password is incorrect. The account will be temporarily locked after 3 attempts" />
+  <err key="PT_Closed_Lgn" value="This account has been closed. Please contact Customer Support" />
+  <err key="Sports_Closed_Lgn" value="Either your username or password is incorrect. The account will be temporarily locked after 3 attempts. Please use the forgotten password link to reset your password" />
+  <err key="PT_AVFailed_Lgn" value="As part of our standard security and verifications procedures, your account awaits Age Verification" />
+  <err key="Sports_AVFailed_Lgn" value="As part of our standard security and verifications procedures, your account awaits Age Verification" />
+  <err key="IMS_AVFailed_Log" value="As part of our standard security and verifications procedures, your account awaits Age Verification" />
+  <err key="PT_Frozen_Lgn" value="This account has been frozen for security reasons" />
+  <err key="IMS_Frozen_Log" value="Player is frozen" />
+  <err key="SelfEx_Lgn" value="Your account is currently excluded. If you believe this is incorrect, please e-mail" />
+  <err key="RestIP_Lgn" value="Ladbrokes does not allow bets/activity from restricted territories." />
+  <!--log msg-->
+  <log key="ClientPlatform_Sports" value="web/sportsbook" />
+  <log key="ClientPlatform_casino" value="web/casino" />
+  <log key="ClientPlatform_poker" value="web/poker" />
+  <log key="ClientPlatform_bingo" value="web/bingo" />
+  <log key="ClientPlatform_vegas" value="web/casino" />
+  <log key="ClientPlatform_games" value="web/games" />
+
+  <tooltip key="reg_pass" value="Your password must be minimum 8 characters in length &amp; maximum 20 characters\r\nYour password must contain a number\r\nYour password must include a letter\r\nYour password can have an underscore" />
+  <!--<tooltip key="reg_pass" value="Please choose a password of at least one uppercase letter OR lowercase letter and at least one digit, min 8, max 20 characters" />-->
+  <tooltip key="reg_pass2" value="8-20 chars, at least 1 number, at least 1 capital letter OR small letter. Symbols not accepted" />
+</controls>

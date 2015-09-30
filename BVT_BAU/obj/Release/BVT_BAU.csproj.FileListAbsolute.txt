@@ -1,0 +1,32 @@
+D:\Genesis\SVN\AnW\BVT_BAU\obj\Release\BVT_BAU.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\_output\Resources\Customers.resx
+D:\Genesis\SVN\AnW\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\_output\BVT_BAU.dll
+D:\Genesis\SVN\AnW\_output\BVT_BAU.pdb
+D:\Genesis\SVN\AnW\BVT_BAU\obj\Release\BVT_BAU.dll
+D:\Genesis\SVN\AnW\BVT_BAU\obj\Release\BVT_BAU.pdb

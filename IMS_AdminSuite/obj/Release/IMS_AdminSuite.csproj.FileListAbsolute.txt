@@ -1,0 +1,80 @@
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\IMS_AdminSuite.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\IMS_AdminSuite.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Framework.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.ActionRepository.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.DataRepository.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.ObjectRepository.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ThoughtWorks.Selenium.UnitTests.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\WebDriver.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\WebDriver.Support.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Gallio.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\log4net.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\MbUnit.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\NHamcrest.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.DataRepository.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Framework.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.ObjectRepository.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\ICE.ActionRepository.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Gallio.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Gallio.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\MbUnit.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\MbUnit.xml
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\NHamcrest.pdb
+D:\Genesis\SVN\AnW\IMS_AdminSuite\bin\Release\Gallio.XmlSerializers.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\obj\Release\IMS_AdminSuite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW\IMS_AdminSuite\obj\Release\IMS_AdminSuite.dll
+D:\Genesis\SVN\AnW\IMS_AdminSuite\obj\Release\IMS_AdminSuite.pdb
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\_output\IMS_AdminSuite.dll
+D:\Genesis\SVN\AnW\_output\IMS_AdminSuite.pdb

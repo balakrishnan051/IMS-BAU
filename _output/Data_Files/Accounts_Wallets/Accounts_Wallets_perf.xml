@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester"/>
+  <regdata key="city" value="United Kingdom"/>
+  <regdata key="City_Web" value="Middx"/>
+  <regdata key="City_Mobile" value="Middx"/>
+  <regdata key="Password" value="Password1"/>
+  
+  
+  <ccdata key="user" value="Test_PerfUser_1" />
+  <ccdata key="pwd" value="123456" />
+  <ccdata key="CCFname" value="Preethi" />
+  <ccdata key="CCard" value="5413615100001390" />
+  <ccdata key="CCAmt" value="5" />
+
+
+  <!--Banking netteller Data-->
+  <depdata key="user" value="Test_PerfUser_1" />
+  <depdata key="pwd" value="123456" />
+  <depdata key="CCFname" value="fname" />
+  <depdata key="CCard" value="411392" />
+  <depdata key="CCAmt" value="12" />
+  <depdata key="depWallet" value="VEGAS" />
+  <depdata key="ToWallet" value="SPORTS" />
+  
+  
+</controls>

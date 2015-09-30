@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--MyAcct-->
+  <link key="myAcct_lnk" value="My Account" />
+  <link key="Deposit_lnk" value="Deposit" />
+  <link key="Banking_lnk" value="Banking" />
+  <xpath key="Sports_banking_lnk" value="//div[@id='loginlinksright']//a[text()='Banking']"/>
+  <xpath key="Deposit_Coin_lnk" value="//a[@class='head-rnd banking' and @title='Banking']"/>
+  <name key="ToWallet" value="bank[amountTo]" />
+  <name key="Username_dep_page" value="header_username" />
+  <id key="title_ddn" value="title" />
+  <id key="Menu_Btn" value="welcome" />
+  <xpath key="Menu_games_Btn" value="id('fmLogin')//span[@class='pop-det']" />
+  
+
+  <!--Login-->
+  <xpath key="Login_Banner_Msgbox" value="//a/div[text()='X']"/>
+  <xpath key="Login_Banner_Msgbox_PT" value="//span[strong[text()='OK']]"/>
+ 
+  <xpath key="Login_Banner_Msgbox_Games" value="//span[@class='lgt-close-bt']"/>
+  
+  <!--Ecom/Sports-->
+  <xpath key="UserImg" value="//span[strong[contains(@class,'userImg')]]" />
+  <link key="mydetails_lnk" value="My Details" />
+
+
+  <!--Header-->
+  <xpath key="headerBalance" value="//span[@class='balance-in-header']"/>
+  <xpath key="title_error" value="//div[@class='form-label error']/label[contains(text(),'Title')]/span[@class='asterisk']" />
+  <xpath key="EcomJoin_btn" value="//a[span[text()='Join']]" />
+  <xpath key="Ecom_welcome_txt" value="//span[strong[@class='userImg']]"/>
+  <xpath key="Coin_Btn" value="//a[@title='Banking']" />
+  <xpath key="Help_Page" value="//img[contains(@src,'help')]" />
+  
+  
+  <!--Change Language-->
+  <xpath key="LanguageMenu" value="//ul[@class='select-box lang-select-box']" />
+  <xpath key="Language_Deutsch" value="//a[span[@class='icon-flag de_DE']]" />
+  <xpath key="Language_Swedish" value="//a[span[@class='icon-flag sv_SE']]" />
+  <xpath key="Language_Russian" value="//a[span[@class='icon-flag ru_RU']]" />
+  
+
+  <!--Contact US-->
+  <xpath key="ContactUS" value="//a[@title='Contact us']" />
+  <xpath key="CustCareEmail" value="//a[@href='mailto:care@ladbrokesvegas.com']" />
+  <xpath key="PromoEmail" value="//a[@href='mailto:promotions@ladbrokesvegas.com']" />
+  <xpath key="SecEmail" value="//a[@href='mailto:security@ladbrokesvegas.com']" />
+  <xpath key="FinEmail" value="//a[@href='mailto:finance@ladbrokesvegas.com']" />
+
+  <!--products tab-->
+  <xpath key="sports_tab_lnk" value="//li[@class=' Sports']" />
+  <xpath key="inPlay_tab_lnk" value="//li[@class=' IN-PLAY']" />
+  <xpath key="liveCasino_tab_lnk" value="//li[@class=' Live Casino']" />
+  <xpath key="casino_tab_lnk" value="//li[@class=' Casino']" />
+  <xpath key="games_tab_lnk" value="//li[@class=' Games']" />
+  <xpath key="bingo_tab_lnk" value="//li[@class=' Bingo']" />
+  <xpath key="poker_tab_lnk" value="//li[@class='active Poker']" />
+  <xpath key="lottos_tab_lnk" value="//li[@class=' Lottos']" />
+  <xpath key="virtuals_tab_lnk" value="//li[@class=' Virtuals']" />
+  <xpath key="mobile_tab_lnk" value="//li[@class=' Mobile']" />
+  <xpath key="exchange_tab_lnk" value="//li[@class=' EXCHANGE']" />
+
+  <xpath key="poker_tab_in_sports" value="//a[@title='Poker']" />
+  <xpath key="casino_tab_in_sports" value="//a[@title='Casino']" />
+  <xpath key="livecasino_tab_in_sports" value="//a[@title='Live Casino']" />
+  <xpath key="poker_tab_in_livecasino" value="//li[@class=' Poker']" />
+  <xpath key="poker_tab_in_lottos" value="//span[contains(text(),'Poker')]"/>
+  <xpath key="casino_tab_in_lottos" value="//span[contains(text(),'Casino')]"/>
+  <xpath key="livecasino_tab_in_lottos" value="//span[contains(text(),'Live Casino')]"/>
+  
+  <!--Clock Display-->
+  <xpath key="livecasino_clock" value="//div[contains(@id,'date')]/span"/>
+
+  <!--Single Sign in-->
+  <id key="myacc_user" value="firstName"/>
+  <xpath key="deposit_user" value="//span[contains(@id,'headerUserNameSpan')]"/>
+  <xpath key="promotions_link" value="//a[contains(text(),'Promotions')]"/>
+
+
+  <!--Games-->
+  <xpath key="games_language_selector_lnk" value="//img[@class='sel-lang-img']"/>
+  <xpath key="games_language_Deutsch" value="//*[@title='German']"/>
+  <xpath key="games_language_Espanol" value="//*[@title='Spanish']"/>
+  <xpath key="games_language_Irish" value="//*[@title='Irish']"/>
+
+
+  
+</controls>

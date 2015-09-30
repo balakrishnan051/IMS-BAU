@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Deposit-->
+  <id key="btn_menu" value="btn_menu" />
+  <id key="transfer" value="transfer" />
+  <id key="deposit" value="deposit" />
+  <name key="DepositAmount" value="bank[amountEntered]" />
+  <name key="DepositAmount2" value="bank[amountEntered2]" />
+  <name key="ToWallet" value="bank[amountTo]" />
+  <xpath key="ErrorMsg" value="//div[@class='red_info']" />
+  <xpath key="DepositButton" value="//input[@value='Deposit']"/>
+  <id key="CvvNo" value="CvvNo" />
+  <name key="DepositPassword" value="bank[password]"/>
+
+  <!--Deposit-->
+  <name key="cardHolderName_txt" value="bankDeposit[cardHolderName]"/>
+  <name key="cardNo_txt" value="bankDeposit[cardNo]"/>
+  <name key="expiryMonth_cmb" value="bankDeposit[expiryMonth]"/>
+  <name key="expiryYear_cmb" value="bankDeposit[expiryYear]"/>
+  <name key="amountLimit_txt" value="bankDeposit[amount]"/>
+  <name key="DepositAmount_txt" value="bankDeposit[amountEntered]" />
+  <name key="DepositAmount2_txt" value="bankDeposit[amountEntered2]" />
+  <name key="DepositPassword_txt" value="bankDeposit[password]"/>
+  <xpath key="SuccessMsg" value="//div[@class='TabbedPanelsContent TabbedPanelsContentVisible']/span[@class='content']"/>
+  <xpath key="SumbitButton_Btn" value="//input[@value='Submit']"/>
+  
+
+</controls>

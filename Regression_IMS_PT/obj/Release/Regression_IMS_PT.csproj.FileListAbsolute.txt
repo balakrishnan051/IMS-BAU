@@ -1,0 +1,93 @@
+D:\Genesis\SVN\AnW\Regression_IMS_PT\obj\Release\Regression_IMS_PT.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Resources\Customers.resx
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Regression_IMS_PT.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Regression_IMS_PT.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\AdminSuite.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Framework.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Gallio.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.ActionRepository.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.DataRepository.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.ObjectRepository.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\IMS_AdminSuite.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Ladbrokes_IMS_TestRepository.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\MbUnit.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Telebet_Suite.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ThoughtWorks.Selenium.Core.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ThoughtWorks.Selenium.UnitTests.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\WebDriver.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\WebDriver.Support.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\MbUnit.Framework.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\log4net.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\NHamcrest.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\QuickGraph.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\QuickGraph.Algorithms.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\AdminSuite.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.DataRepository.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Framework.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.ActionRepository.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\IMS_AdminSuite.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Ladbrokes_IMS_TestRepository.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\ICE.ObjectRepository.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\Telebet_Suite.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\MbUnit.Framework.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\NHamcrest.pdb
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\QuickGraph.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\bin\Release\QuickGraph.Algorithms.xml
+D:\Genesis\SVN\AnW\Regression_IMS_PT\obj\Release\Regression_IMS_PT.dll
+D:\Genesis\SVN\AnW\Regression_IMS_PT\obj\Release\Regression_IMS_PT.pdb
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\_output\Resources\Customers.resx
+D:\Genesis\SVN\AnW\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\_output\Regression_IMS_PT.dll
+D:\Genesis\SVN\AnW\_output\Regression_IMS_PT.pdb

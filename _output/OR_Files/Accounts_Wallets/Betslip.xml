@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Search-->
+  <xpath key="SearchOption" value="//a[@class='circle-icon search pop-modal']" />
+  <xpath key="SearchButton" value="//div[@class='main-container']/form/fieldset/button[@class='btn-search']" />
+
+  <xpath key="StakeAmt_text" value="//input[contains(@id,'Stake')]"/>
+  <xpath key="Insuffund_error" value="//div[@class='error-con']"/>
+  <xpath key="FreeBet_Collapse" value="//h3[span[@class='totalfreebet']]"/>
+  <xpath key="Betplace_success" value="//strong[contains(text(),'bet has been accepted')]"/>
+  <xpath key="Close_Receipt" value="//div[@class='close-betslip-wrapper']/a[contains(text(),'close receipt')]"/>
+
+  <id key="SearchBox" value="typeahead" />
+  <id key="PlaceBet_Btn" value="F_Betslip-Submit" />
+  
+  
+  <!--<xpath key="eventOddsListPath" value="//div[contains(@id,'eventTime')]//ancestor::tr/td[@class='odds']/a"/>-->
+  <xpath key="single_stake_box" value="//input[contains(@class,'stake')]"/>
+  <xpath key="openAccount_betslip_btn" value="//div[@id='betslip']//input[contains(@value,'Open account')]" />
+
+  <id key="BetSlip_count" value="singles_stakeline" />
+  <id key="check_btn" value="chk_but" />
+
+  <!--Sports-->
+  <xpath key="place_bet_button" value="//input[contains(@class,'bet')]" />
+  <xpath key="eventName_checkBetPage" value="//div[@id='betslipSingle0']//div[contains(string(),'Event')]/following-sibling::div[@class='rightcol']" />
+  <xpath key="betReceiptPath" value="//h3[contains(string(),'BET RECEIPT')]" />
+ 
+  <xpath key="oddsUpcoming" value="//div[contains(@id,'couponHead') and contains(@class,'close')]" />
+
+  <!--View Odds-->
+  
+  <id key="americanOddsId" value="AMERICAN" />
+  <id key="decimalOddsId" value="DECIMAL" />
+  <id key="fractionalOddsId" value="ODDS" />
+  <xpath key="eventOddsListPath" value="//div[contains(@id,'eventTime')]//ancestor::tr/td[@class='odds']/a"/>
+  <xpath key="viewOddsPath" value="//div[contains(@class,'dd-odds') and div[contains(@class,'dd-content')]]" />
+  <xpath key="all_Odds" value="//td[@class='odds']/a" />
+
+
+</controls>

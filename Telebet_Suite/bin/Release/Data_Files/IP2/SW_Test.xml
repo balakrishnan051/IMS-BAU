@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<controls>
+
+  <Url key="MyAcct_url" value="http://account-test.ladbrokes.com/en/my-account#my-details"/>
+  
+  
+  <!--sites P=PT,S=Sports,G=Games,L=Lottos,E=Ecom-->
+  <availableProd key ="sites" value ="P,S,E,G,L"/>
+
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester" />
+  <regdata key="country_UK" value="United Kingdom" />
+  <regdata key="country_Bel" value="Belgium" />
+  <regdata key="City_Web" value="Harrow" />
+  <regdata key="City_Mobile" value="Middx" />
+  <regdata key="Password" value="Lbr123456" />
+  <regdata key="PromoCode" value="F50" />
+  <regdata key="DepLimit" value="1000" />
+  
+  <eventdata key="eventID" value="Barcelona v Sevilla" />
+  <eventID key="sel1" value="1/8" />
+  
+  
+
+  
+  <!-- Login - Balance Cust-->
+  <lgnBdata key="user" value="test_uAuto5" />
+  <lgnBdata key="pwd" value="Lbr123456" />
+  <!--wallet-->
+  <Allwallets key="wallets" value="Games;Vegas;Exchange" />
+  <Wallet key="SingleWallet" value="Vegas" />
+  
+  <!--WriteoFF-->
+  <woWallet  key="depWallet" value="Vegas" />
+  <woWallet  key="depAmt" value="10" />
+
+  <!--Envoy-->
+  <eWallet  key="depWallet" value="Vegas" />
+  <eWallet  key="depAmt" value="10" />
+  
+  <!--ManualCorrection-->
+  <mc key ="addBalance" value ="Increase balance for lapse account"/>
+  <mc key ="withdrawBalance" value ="WDW corrections"/>
+  <mc key ="TransactionType_Add" value ="Player balance correction deposit" />
+  <mc key ="TransactionType_With" value ="Player balance correction withdraw" />
+
+  <!-- Netteller data-->
+  <depdata key="user" value="test_uAuto53" />
+  <depdata key="pwd" value="Lbr123456" />
+  <depdata key="depWallet" value="Vegas" />
+  <depdata key="wWallet" value="Games &amp; Lottos" />
+  <depdata key="dAmt" value="10" />
+  <depdata key="wAmt" value="5" />
+
+  <!--freebet promo-->
+  <freebet key="fPromo_Myacct" value ="SEAMLESS12" />
+  <freebet key="fofferName_Myacct" value ="Promo_OB" />
+
+  <!--CreditCard-->
+  <mcdata key="card" value="5333350397780731"/>
+  <mcdata key="damt" value="50"/>
+  <mcdata key="wamt" value="20"/>
+  <mcdata key="depWallet" value="Vegas"/>
+  <mcdata key="CVV" value="123"/>
+  
+  <!--ForecastEvents-->
+  <event key="user" value="test_uAuto53" />
+  <event key="pwd" value="Lbr123456" />
+  
+  <!--|Horse Racing|, |Folkestone : r110000070|-->
+  <event key="Forecast_eID" value ="217332183"/>
+  <event key="Forecast_clID" value ="r110000070"/>
+  <event key="fAmt" value="1.11" />
+  
+  <event key="EW_eID" value ="217332832"/>
+  <event key="EW_clID" value ="r110000070"/>
+  <event key="eAmt" value="1.22" />
+
+  <event key="handicap_eID" value ="217337720"/>
+  <event key="handi_clname" value ="football/english/FA CUP"/>
+  <event key="hAmt" value="1.33" />
+
+  <event key="BIR_eID" value ="217338259"/>
+  <event key="bAmt" value="1.44" />
+
+  <event key="tri_eID" value ="217338961" />
+  <event key="tAmt" value="1.55" />
+  
+  
+  <tevent key="user" value="pulled5" />
+  <tevent key="pwd" value="Lbr123456" />
+  <tevent key="eAmt" value="10" />
+  
+  
+  
+  <!--statement and cleardown-->
+  <cleardata key="depWallet" value="Vegas"/>
+  
+</controls>

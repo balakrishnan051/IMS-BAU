@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<controls>
+  
+  <!--CreateNewCustomer()-->
+  
+  <!--xpath-->
+  <xpath key="tryout_newlook_lnk" value="//a[contains(text(),'Try out the new look')]" />
+  <xpath key="signupinfo" value="id('signup_information')" />
+  
+  <!--id-->
+  <id key="playermgmt_lnk" value="player_management_link" />
+  <id key="username_txt" value="username" />
+  <id key="displayuser_btn" value="submit"/>
+  
+  <!--Partial Link-->
+  <plink key="RealPlayerDb_lnk" value="Real player database" />
+  
+</controls>

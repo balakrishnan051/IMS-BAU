@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester"/>
+  <regdata key="city" value="United Kingdom"/>
+  <regdata key="City_Web" value="Middx"/>
+  <regdata key="City_Mobile" value="Middx"/>
+  <regdata key="Password" value="Password1"/>
+
+  <!--Banking Deposit Data-->
+  <depdata key="User" value="UserUOFCLAZBD" />
+  <depdata key="Pass" value="Password1" />  
+  <depdata key="CCard" value="4000009906267169" />
+  <depdata key="CCAmt" value="10" />
+  <depdata key="depWallet" value="VEGAS" />
+  <depdata key="ToWallet" value="Gaming" />
+  <depdata key="FromWallet" value="Gaming" />
+  
+  
+  <!--Bingo Login Data-->
+  <lgndata key="User" value="Useruoeyqdam" />
+  <lgndata key="Pass" value="Password1" />
+  <lgndata key="Fname" value="XYZ" />
+  
+   
+  
+</controls>

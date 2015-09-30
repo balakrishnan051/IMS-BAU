@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21EDB8D1-8C12-4774-B4E7-E1AAEF525529}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Regression_IP2</RootNamespace>
+    <AssemblyName>Regression_IP2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\_output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\_output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gallio, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Shared Files\Gallio.dll</HintPath>
+    </Reference>
+    <Reference Include="MbUnit, Version=3.4.0.0, Culture=neutral, PublicKeyToken=eb9cfa67ee6ab36e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Shared Files\MbUnit.dll</HintPath>
+    </Reference>
+    <Reference Include="Selenium.WebDriverBackedSelenium">
+      <HintPath>..\Shared Files\Selenium.WebDriverBackedSelenium.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ThoughtWorks.Selenium.Core">
+      <HintPath>..\Shared Files\ThoughtWorks.Selenium.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ThoughtWorks.Selenium.UnitTests">
+      <HintPath>..\Shared Files\ThoughtWorks.Selenium.UnitTests.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver">
+      <HintPath>..\Shared Files\WebDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="WebDriver.Support">
+      <HintPath>..\Shared Files\WebDriver.Support.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <CodeAnalysisDependentAssemblyPaths Condition=" '$(VS100COMNTOOLS)' != '' " Include="$(VS100COMNTOOLS)..\IDE\PrivateAssemblies">
+      <Visible>False</Visible>
+    </CodeAnalysisDependentAssemblyPaths>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IP2SeamLessWallet_Cases.cs" />
+    <Compile Include="IP2Authentication_Cases.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdminSuite\AdminSuite.csproj">
+      <Project>{C425CE1C-95FA-4E3A-895A-B796E760AAA4}</Project>
+      <Name>AdminSuite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataRepository\ICE.DataRepository.csproj">
+      <Project>{EA0F4A7A-F16C-4636-8F08-E96032038363}</Project>
+      <Name>ICE.DataRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework\Framework.csproj">
+      <Project>{D13E37C6-E107-4652-8FC1-DB97C288D4D7}</Project>
+      <Name>Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IMS_AdminSuite\IMS_AdminSuite.csproj">
+      <Project>{9AC7B98E-185A-4144-9F66-B8F02F1D79C6}</Project>
+      <Name>IMS_AdminSuite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ladbrokes_IMS_TestRepository\Ladbrokes_IMS_TestRepository.csproj">
+      <Project>{C55A3086-5D97-4F88-A03E-8A5FEF72BB6B}</Project>
+      <Name>Ladbrokes_IMS_TestRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectRepository\ICE.ObjectRepository.csproj">
+      <Project>{2B24075A-E5B0-4105-9CE0-4C8BA30D2A0D}</Project>
+      <Name>ICE.ObjectRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Telebet_Suite\Telebet_Suite.csproj">
+      <Project>{924F75B1-B130-461A-8ED0-33347E6E25AE}</Project>
+      <Name>Telebet_Suite</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

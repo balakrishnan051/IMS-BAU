@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<controls>
+  <!--Search in IMS()-->
+  <!--xpath-->
+  <xpath key="signupinfo" value="id('signup_information')" />
+  <xpath key="CustWithCC" value="//tr[td[18][contains(text(),'NO')]]/td[a]/a"/>
+
+  <id key="ExpandPersonal" value= "imgpersonal"/>
+  <id key="username_txt" value="username" />
+  <id key="CC_txt" value="ccnumber" />
+  <id key="displayuser_btn" value="submit"/>
+  <id key="SignUpTimePeriod_cmb" value="period"/>
+
+  <id key="freeze_btn" value="freeze"/>
+  <xpath key="unfreeze_btn" value="//input[@id='unfreeze']" />
+  <xpath key="disable_btn" value="//input[@id='disableBtn']" />
+
+  <!--freezing popup-->
+  <id key="freeze_reason" value="reason"/>
+  <id key="popup_freeze_btn" value="freeze"/>
+  <id key="mesg_type" value="adminmessagetype"/>
+  <id key="mesg_subject" value="adminmessagesubject"/>
+  <id key="message" value="adminmessagetext"/>
+</controls>

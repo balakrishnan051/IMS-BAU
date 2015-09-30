@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<controls>
+  <Url key="MyAcct_url" value="https://account-stg.ladbrokes.com/en/my-account#my-details" />
+  <!--sites P=PT,S=Sports,G=Games &amp; Lottos,L=Lottos,E=Ecom-->
+  <availableProd key="sites" value="P,S,E,G,L" />
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester" />
+  <regdata key="country_UK" value="United Kingdom" />
+  <regdata key="country_Bel" value="Belgium" />
+  <regdata key="City_Web" value="Harrow" />
+  <regdata key="City_Mobile" value="Middx" />
+  <regdata key="Password" value="Lbr123456" />
+  <regdata key="PromoCode" value="F50" />
+  <regdata key="DepLimit" value="1000" />
+  <!-- Login - Balance Cust-->
+  <lgnBdata key="user" value="Userupjcqnm0" />
+  <lgnBdata key="pwd" value="Lbr123456" />
+  <!--wallet-->
+  <Allwallets key="wallets" value="Games &amp; Lottos;Main Wallet (casino/poker/bingo);Exchange" />
+  <Wallet key="SingleWallet" value="Main Wallet" />
+  <!--WriteoFF-->
+  <woWallet key="depWallet" value="Main Wallet" />
+  <woWallet key="depAmt" value="10" />
+  <!--Envoy-->
+  <eWallet key="depWallet" value="Main Wallet" />
+  <eWallet key="depAmt" value="10" />
+  <!--ManualCorrection-->
+  <!--<mc key ="addBalance" value ="Increase balance for lapse account"/>-->
+  <!--<mc key="addBalance" value="Cash Deposit" />-->
+  <mc key="addBalance" value="Sportsbook Increase To Balance" />
+  <mc key="withdrawBalance" value="Withdraw - Transfer from credit customer" />
+  <mc key="TransactionType_Add" value="Player balance correction deposit" />
+  <mc key="TransactionType_With" value="Player balance correction withdraw" />
+  <!-- Netteller data-->
+  <depdata key="user" value="Userupjcqks5" />
+  <depdata key="pwd" value="Lbr123456" />
+  <depdata key="depWallet" value="Main Wallet" />
+  <depdata key="wWallet" value="Games &amp; Lottos" />
+  <depdata key="dAmt" value="10" />
+  <depdata key="wAmt" value="5" />
+  <!--freebet promo-->
+  <freebet key="fPromo_Myacct" value="SEAMLESS12" />
+  <freebet key="fofferName_Myacct" value="SWpromocode" />
+  <!--CreditCard-->
+  <mcdata key="card" value="5333350397780731" />
+  <mcdata key="damt" value="20" />
+  <mcdata key="wamt" value="10" />
+  <mcdata key="depWallet" value="Main Wallet" />
+  <mcdata key="CVV" value="123" />
+  <!--EventUser-->
+  <event key="user" value="Userupjcqlav4" />
+  <event key="pwd" value="Lbr123456" />
+  <event key="Tele_user" value="Userupjcqlav4" />
+  <event key="Tele_pwd" value="Lbr123456" />
+  
+  <event key="user_EUR" value="Userupjcqaaag0" />
+  <event key="pwd_EUR" value="Lbr123456" />
+  <!--football FA CUP-->
+  <event key="handicap_eID" value="220798040" />
+  <event key="handicap_name" value="AutoEvt_UPINMZF" />
+  <event key="handi_clname" value="betting/football/english" />
+  <event key="hAmt" value="1.33" />
+  <event key="BIR_eID" value="220798041" />
+  <event key="BIR_name" value="AutoEvt_UPINMAAAC" />
+  <event key="BIR_clname" value="betting/football/english" />
+  <event key="bAmt" value="1.44" />
+  <event key="tri_eID" value="220798042" />
+  <event key="tri_name" value="AutoEvt_UPINMACD" />
+  <event key="tri_clname" value="betting/football/english" />
+  <event key="tri_markt" value="FA Cup - Match Betting" />
+  <event key="tAmt" value="0.55" />
+  <event key="pat_eID" value="220798043" />
+  <event key="pat_name" value="AutoEvt_UPIKQBCAN" />
+  <event key="pat_clname" value="betting/football/english" />
+  <event key="pat_Amt" value="0.59" />
+  <event key="Acc_eID" value="220798044" />
+  <event key="Acc_name" value="AutoEvt_UPIKQBABA" />
+  <event key="Acc_clname" value="betting/football/english" />
+  <event key="treb_Amt" value="0.68" />
+  <event key="Acc_Amt" value="0.69" />
+  <!--|Horse Racing|, |Folkestone : r110000070|-->
+  <event key="Forecast_eID" value="220798045" />
+  <event key="Forecast_name" value="Auto_Horse_UPINMAFM" />
+  <event key="Forecast_clID" value="racing/horse-racing/Folkestone" />
+  <event key="forecast_Amt" value="1.11" />
+  <event key="tricast_Amt" value="1.12" />
+  <event key="EW_eID" value="220798046" />
+  <event key="EW_name" value="Auto_Horse_UPINMAJT" />
+  <event key="EW_clID" value="racing/horse-racing/Folkestone" />
+  <event key="Ew_markt" value="Folkestone" />
+  <event key="eAmt" value="1.22" />
+  <event key="eAmt2" value="1.23" />
+  <!--Yankee-->
+  <event key="yank_eID" value="220798047" />
+  <event key="yank_name" value="Auto_Horse_UPINMAKAR" />
+  <event key="yank_clname" value="racing/horse-racing/Folkestone" />
+  <event key="luck_eID" value="220798048" />
+  <event key="luck_name" value="Auto_Horse_UPINMALAO" />
+  <event key="luck_clname" value="racing/horse-racing/Folkestone" />
+  <event key="yAmt" value="0.16" />
+  <event key="lAmt" value="0.15" />
+  <event key="Single_Amt" value="0.89" />
+  <event key="Double_Amt" value="0.79" />
+  <!--Candian-->
+  <event key="Can_eID" value="220798049" />
+  <event key="Can_name" value="Auto_Horse_UPINMAMD" />
+  <event key="Can_clname" value="racing/horse-racing/Folkestone" />
+  <event key="cAmt" value="0.11" />
+  <event key="l31Amt" value="0.12" />
+  <!--Lucky63-->
+  <event key="l63_eID" value="220798050" />
+  <event key="l63_name" value="Auto_Horse_UPINMAMAG" />
+  <event key="l63_clname" value="racing/horse-racing/Folkestone" />
+  <event key="He_Amt" value="0.15" />
+  <event key="l63_Amt" value="0.16" />
+  <!--statement and cleardown-->
+  <cleardata key="depWallet" value="Main Wallet" />
+  
+  <!--Cheque-->
+  <BDdata key="depWallet" value="Main Wallet" />
+  <BDdata key="depAmt" value="20" />
+  <BDdata key="wAmt" value="5" />
+</controls>

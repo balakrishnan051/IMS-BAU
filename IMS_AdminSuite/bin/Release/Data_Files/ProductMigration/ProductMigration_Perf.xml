@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester"/>
+  <regdata key="city" value="United Kingdom"/>
+  <regdata key="City_Web" value="Middx"/>
+  <regdata key="City_Mobile" value="Middx"/>
+  <regdata key="Password" value="Password1"/>
+
+  <!--Valid Login Data-->
+  <lgndata key="user" value="Useruogclhat" />
+  <lgndata key="pwd" value="Password1" />
+  <lgndata key="Fname" value="Testeruogclhat" />
+
+  <!--Update Login Data-->
+  <Upddata key="user" value="Useruogclayn" />
+  <Upddata key="pwd" value="Password1" />
+  <Upddata key="Fname" value="Testeruofacrahag" />
+
+  <!--Sports Login Data-->
+  <lgnsdata key="user" value="Useruofabrnah" />
+  <lgnsdata key="pwd" value="Password1" />
+  <lgnsdata key="Fname" value="XYZ" />
+
+  <!--Deposit limit-->
+  <depLimt key="user" value="Useruogcmcbh" />
+  <depLimt key="pwd" value="Password1" />
+  <depLimt key="Fname" value="XYZ" />
+  <depLimt key="Amnt" value="251" />
+  <depLimt key="SecNumber" value="411392" />
+  <depLimt key="depWallet" value="Gaming" />
+  
+  
+  <!--Responsible Gambling Data-->
+  <rgdata key="user" value="Useruofabrnah" />
+  <rgdata key="pwd" value="Password1" />
+  <rgdata key="Fname" value="XYZ" />
+
+
+  <ccdata key="user" value="Useruofacrahag" />
+  <ccdata key="pwd" value="Password1" />
+  <ccdata key="CCFname" value="Testeruofacrahag" />
+  <ccdata key="CCard" value="6331102732864500" />
+  <ccdata key="CCAmt" value="5" />
+
+  
+
+  <!--Banking CC Data-->
+  <depdatacc key="user" value="Useruogcmzz" />
+  <depdatacc key="pwd" value="Password1" />
+  <depdatacc key="CCard" value="6331102732864500" />
+  <depdatacc key="CCFname" value="Testeruogcmzz" />
+  <depdatacc key="CCAmt" value="12" />
+  <depdatacc key="depWallet" value="Gaming" />
+  <depdatacc key="withWallet" value="Sportsbook" />
+  
+  
+  <!--Poker Banking netteller Data (458591047553)-->
+  <depdata key="user" value="Useruogclhat" />
+  <depdata key="pwd" value="Password1" />
+  <depdata key="CCFname" value="Testeruogclhat" />  
+  <depdata key="CCAmt" value="10" />
+  <depdata key="depWallet" value="Gaming" />
+  <depdata key="withWallet" value="SPORTS" />
+  <depdata key="FromWallet" value="Sportsbook" />
+  <depdata key="ToWallet" value="Gaming" />
+  <depdata key="TransWalletDropDown" value="Sportsbook;Games;Gaming;Exchange" />
+  <depdata key="TransWalletTable" value="Sportsbook;Games;Gaming;Exchange" />
+  <netdata key="account_id" value="458591047553" />
+  <netdata key="account_pwd" value="411392" />
+
+  <!--VISA Credit card-->
+  <Visadata key="deptWallet1" value="SPORTS" />
+  <Visadata key="deptWallet2" value="VEGAS" />
+  <Visadata key="deptWallet3" value="EXCHANGE" />
+  <Visadata key="deptWallet4" value="Games &amp; Lottos" />
+  <Visadata key="VISA_CCard" value="4000000350297679" />
+  <Visadata key="credit_card_user" value="test_aditi_april16" />
+
+  <!--live dealer paypal Data -->
+  <paydata key="user" value="aditi_rashmi_lived" />
+  <paydata key="pwd" value="Password1" />
+  <paydata key="CCFname" value="fname" />
+  <paydata key="CCAmt" value="5" />
+  <paydata key="depWallet" value="Gaming" />
+  <paydata key="user_id" value="mehaksharma001@gmail.com" />
+  <paydata key="user_pwd" value="Aditi01*" />
+</controls>

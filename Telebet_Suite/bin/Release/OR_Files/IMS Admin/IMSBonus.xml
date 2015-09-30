@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--AddBonus()-->
+
+  <xpath key="addbonus_btn" value="//input[@value='Add bonus']"/>
+  <xpath key="eventLog_link" value="//a[contains(string(),'Event log')]"/>
+
+
+
+  <id key="bonusdropdown_txt" value="bonus_template_select_1" />
+  <id key="amount_txt" value="amount" />
+  <id key="submit_btn" value="submit" />
+  <id key="showEvent_btn" value="show"/>
+
+  <!--CreateNewBonus()-->
+
+  <id key="templatedb" value="template_tools_link" />
+  <id key="newbonustype_cmb" value="newbonustype" />
+  <id key="casinocode_cmb" value="casinocode" />
+  <id key="createnew_btn" value="createnew" />
+  <id key="bonusname_txt" value="name" />
+  <id key="maxbonus_txt" value="maxbonus" />
+  <id key="defaultproduct_cmb" value="defaultproduct" />
+  <id key="fwtoggle_chk" value="fwtoggle" />
+  <id key="fixedwageringrequirementamt_txt" value="fixedwageringrequirementamt" />
+  <id key="startdate_txt" value="startdate" />
+  <id key="enddate_txt" value="enddate" />
+  <id key="gameweightsconfigurationcode_cmb" value="gameweightsconfigurationcode" />
+  <id key="action_btn" value="action[create]" />
+  <id key="errormsg_lbl" value="message-error-1" />
+  <id key="msginfo_lbl" value="message-info-1" />
+
+  <id key="monitorreport_btn" value="monitoring__reporting_link" />
+  <id key="eventname_txt" value="eventname" />
+  <id key="username_txt" value="username" />
+  <id key="user_cmb" value="user" />
+  <id key="period_cmb" value="period" />
+
+  <link key="bonusdb_lnk" value="Bonus database" />
+
+
+</controls>

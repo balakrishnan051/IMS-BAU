@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Registration-->
+  <id key="btn_menu" value="btn_menu" />
+ 
+  <name key="ToWallet" value="bank[amountTo]" />
+  <id key="title_ddn" value="title" />
+  <id key="fname_txt" value="firstName" />
+  <id key="lname_txt" value="lastName" />
+  <id key="email_txt" value="email" />
+  <id key="mobile_txt" value="mobile" />
+  <id key="phone_txt" value="phone" />
+  <id key="post_txt" value="postCode" />
+  <id key="houseNo_txt" value="house" />
+  <id key="addr_txt" value="address" />
+  <id key="city_txt" value="city" />
+  <id key="username_txt" value="userName" />
+  <id key="userPwd_txt" value="userPassword" />
+  <id key="pwdverify_txt" value="passwordVerify" />
+  <id key="securityQues_ddn" value="verificationQuestion" />
+  <id key="answer_txt" value="verificationAnswer" />
+  <id key="country_ddn" value="country" />
+  <id key="dob_day" value="birthDay" />
+  <id key="dob_month" value="birthMonth" />
+  <id key="dob_year" value="birthYear" />
+  <id key="promo_code" value="coupon" />
+  <id key="terms_check" value="termsAndConditions" />
+  <id key="deplimit_ddn" value="depositLimit" />
+
+  <xpath key="title_cmb" value="//select[@id='title']" />
+  <xpath key="day_cmb" value="//select[@id='birthDay']" />
+  <xpath key="month_cmb" value="//select[@id='birthMonth']" />
+  <xpath key="year_cmb" value="//select[@id='birthYear']" />
+  <xpath key="country_cmb" value="//select[@id='country']" />
+  <xpath key="securityQues_cmb" value="//select[@id='verificationQuestion']" />
+  <xpath key="deplimit_cmb" value="//select[@id='depositLimit']" />
+  
+  
+  <xpath key="createAcct_Xpath" value="//a[@title='Join']" />
+  <xpath key="findAddr_Btn" value="//button[contains(@id,'fillFields')]" />
+  <xpath key="chat_img" value="  //img[@class='lpInviteChatImgClose']" />
+  <xpath key="createAcc_Btn" value="//div[contains(@id,'submitContainer')]" />
+  <xpath key="reg_error" value="//div[@class='form-label  error']" />
+
+  <xpath key="title_error" value="//div[@class='form-label error']/label[contains(text(),'Title')]/span[@class='asterisk']" />
+  <xpath key="fname_error" value="//div[@class='form-label  error']/label[contains(text(),'First Name')]/span[@class='asterisk']" />
+  <xpath key="lname_error" value="//div[@class='form-label  error']/label[contains(text(),'Surname')]/span[@class='asterisk']" />
+  <xpath key="addr_error" value="//div[@class='form-label error']/label[contains(text(),'Address')]/span[@class='asterisk']" />
+  <xpath key="city_error" value="//div[@class='form-label error']/label[contains(text(),'City')]/span[@class='asterisk']" />
+  <xpath key="bob_error" value="//div[@class='form-label error']/label[contains(text(),'Birth Date')]/span[@class='asterisk']" />
+  <xpath key="phone_error" value="//div[@class='form-label error']/label[contains(text(),'Phone')]/span[@class='asterisk']" />
+  <xpath key="houseno_error" value="//div[@class='form-label error']/label[contains(text(),'House')]/span[@class='asterisk']" />
+  <xpath key="answer_error" value="//div[@class='form-label  error']/label[contains(text(),'Answer')]/span[@class='asterisk']" />
+  <xpath key="pwd_error" value="//div[@class='form-label  error']/label[@for='userPassword']/span[@class='asterisk']" />
+  <xpath key="securityQues_error" value="//div[@class='form-label error']/label[contains(text(),'Security')]/span[@class='asterisk']" />
+  <xpath key="email_error" value="//div[@class='form-label  error']/label[contains(text(),'Email')]/span[@class='asterisk']" />
+  <xpath key="uname_error" value="//div[@class='form-label  error']/label[contains(text(),'User Name')]/span[@class='asterisk']" />
+  <xpath key="pwdConfirm_error" value="//div[@class='form-label  error']/label[contains(text(),'Confirm Password')]/span[@class='asterisk']" />
+  <xpath key="terms_error" value="//span[@class='empty error']" />
+  <xpath key="depLimit_error" value="//div[@class='form-label error']/label[contains(text(),'Deposit Limit')]/span[@class='asterisk']" />
+
+  <!--login error popup-->
+  <xpath key="login_error_msg" value="//div[contains(text(),'Invalid username and password combination')]" />
+</controls>

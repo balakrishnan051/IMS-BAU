@@ -1,0 +1,128 @@
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\chromedriver.exe
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\IEDriverServer.exe
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Resources\Customers.resx
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\IP2_Restricted_IP.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\IP2_Restricted_IP.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\AdminSuite.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Framework.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Gallio.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.ActionRepository.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.DataRepository.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.ObjectRepository.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\IMS_AdminSuite.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\MbUnit.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Telebet_Suite.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\TestRepository.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ThoughtWorks.Selenium.UnitTests.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\WebDriver.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\WebDriver.Support.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\MbUnit.Framework.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\log4net.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Google.GData.Spreadsheets.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\NHamcrest.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\QuickGraph.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\QuickGraph.Algorithms.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Google.GData.Client.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Google.GData.Extensions.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Newtonsoft.Json.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\AdminSuite.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.DataRepository.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Framework.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.ActionRepository.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\IMS_AdminSuite.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\ICE.ObjectRepository.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\Telebet_Suite.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\TestRepository.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\MbUnit.Framework.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\NHamcrest.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\QuickGraph.xml
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\bin\Debug\QuickGraph.Algorithms.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\_output\Resources\Customers.resx
+D:\Genesis\SVN\AnW\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\_output\IP2_Restricted_IP.dll
+D:\Genesis\SVN\AnW\_output\IP2_Restricted_IP.pdb
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.dll
+D:\Genesis\SVN\AnW\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.pdb
+D:\Bit_IMS\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Bit_IMS\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Bit_IMS\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Bit_IMS\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Bit_IMS\_output\OR_Files\Telebet\TB2.xml
+D:\Bit_IMS\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Bit_IMS\_output\Resources\Customers.resx
+D:\Bit_IMS\_output\Resources\Customers.Designer.cs
+D:\Bit_IMS\_output\Data_Files\IP2\SW_Stage.xml
+D:\Bit_IMS\_output\Data_Files\IP2\SW_Test.xml
+D:\Bit_IMS\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Bit_IMS\_output\Data_Files\IP2\IP2_Test.xml
+D:\Bit_IMS\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Bit_IMS\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Bit_IMS\_output\OR_Files\Poker\Banking.xml
+D:\Bit_IMS\_output\OR_Files\Poker\Regitration.xml
+D:\Bit_IMS\_output\IP2_Restricted_IP.dll
+D:\Bit_IMS\_output\IP2_Restricted_IP.pdb
+D:\Bit_IMS\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.csprojResolveAssemblyReference.cache
+D:\Bit_IMS\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.dll
+D:\Bit_IMS\IP2_Restricted_IP\obj\Debug\IP2_Restricted_IP.pdb

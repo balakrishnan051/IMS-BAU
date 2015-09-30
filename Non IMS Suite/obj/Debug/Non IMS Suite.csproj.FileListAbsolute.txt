@@ -1,0 +1,498 @@
+D:\Genesis\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+D:\Genesis\AnW\_output\chromedriver.exe
+D:\Genesis\AnW\_output\IEDriverServer.exe
+D:\Genesis\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\AnW\_output\Resources\Customers.resx
+D:\Genesis\AnW\_output\Resources\Customers.Designer.cs
+D:\Genesis\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\AnW\_output\Non IMS Suite.dll
+D:\Genesis\AnW\_output\Non IMS Suite.pdb
+D:\Genesis\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+E:\Genesis\CodeBase\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+E:\Genesis\CodeBase\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+E:\Genesis\CodeBase\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+E:\Genesis\CodeBase\_output\chromedriver.exe
+E:\Genesis\CodeBase\_output\IEDriverServer.exe
+E:\Genesis\CodeBase\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+E:\Genesis\CodeBase\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+E:\Genesis\CodeBase\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSBonus.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSCommon.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+E:\Genesis\CodeBase\_output\OR_Files\Ladbrokes_Header\Header.xml
+E:\Genesis\CodeBase\_output\OR_Files\IMS Admin\IMSBase.xml
+E:\Genesis\CodeBase\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+E:\Genesis\CodeBase\_output\OR_Files\Telebet\TB2.xml
+E:\Genesis\CodeBase\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+E:\Genesis\CodeBase\_output\Resources\Customers.resx
+E:\Genesis\CodeBase\_output\Resources\Customers.Designer.cs
+E:\Genesis\CodeBase\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+E:\Genesis\CodeBase\_output\Data_Files\ProductMigration\ProductMigration.xml
+E:\Genesis\CodeBase\_output\OR_Files\Accounts_Wallets\Banking.xml
+E:\Genesis\CodeBase\_output\OR_Files\Accounts_Wallets\Betslip.xml
+E:\Genesis\CodeBase\_output\OR_Files\Poker\Banking.xml
+E:\Genesis\CodeBase\_output\OR_Files\Poker\Regitration.xml
+E:\Genesis\CodeBase\_output\Non IMS Suite.dll
+E:\Genesis\CodeBase\_output\Non IMS Suite.pdb
+E:\Genesis\CodeBase\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+E:\Genesis\CodeBase\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+E:\Genesis\CodeBase\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+D:\Genesis\AnW Latest\_output\chromedriver.exe
+D:\Genesis\AnW Latest\_output\IEDriverServer.exe
+D:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\AnW Latest\_output\Resources\Customers.resx
+D:\Genesis\AnW Latest\_output\Resources\Customers.Designer.cs
+D:\Genesis\AnW Latest\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\AnW Latest\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\AnW Latest\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\AnW Latest\_output\Non IMS Suite.dll
+D:\Genesis\AnW Latest\_output\Non IMS Suite.pdb
+D:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+E:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+E:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+E:\Genesis\AnW Latest\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+E:\Genesis\AnW Latest\_output\chromedriver.exe
+E:\Genesis\AnW Latest\_output\IEDriverServer.exe
+E:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSBonus.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCommon.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Ladbrokes_Header\Header.xml
+E:\Genesis\AnW Latest\_output\OR_Files\IMS Admin\IMSBase.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Telebet\TB2.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+E:\Genesis\AnW Latest\_output\Resources\Customers.resx
+E:\Genesis\AnW Latest\_output\Resources\Customers.Designer.cs
+E:\Genesis\AnW Latest\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+E:\Genesis\AnW Latest\_output\Data_Files\ProductMigration\ProductMigration.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Banking.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Accounts_Wallets\Betslip.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Poker\Banking.xml
+E:\Genesis\AnW Latest\_output\OR_Files\Poker\Regitration.xml
+E:\Genesis\AnW Latest\_output\Non IMS Suite.dll
+E:\Genesis\AnW Latest\_output\Non IMS Suite.pdb
+E:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+E:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+E:\Genesis\AnW Latest\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+D:\Genesis\AnW Latest-Updated\_output\chromedriver.exe
+D:\Genesis\AnW Latest-Updated\_output\IEDriverServer.exe
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\AnW Latest-Updated\_output\Resources\Customers.resx
+D:\Genesis\AnW Latest-Updated\_output\Resources\Customers.Designer.cs
+D:\Genesis\AnW Latest-Updated\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\AnW Latest-Updated\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\AnW Latest-Updated\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\AnW Latest-Updated\_output\Non IMS Suite.dll
+D:\Genesis\AnW Latest-Updated\_output\Non IMS Suite.pdb
+D:\Genesis\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+E:\Project\DailyRun\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\chromedriver.exe
+E:\Project\DailyRun\AnW Latest-Updated\_output\IEDriverServer.exe
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSBonus.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCommon.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Ladbrokes_Header\Header.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\IMS Admin\IMSBase.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Telebet\TB2.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\Resources\Customers.resx
+E:\Project\DailyRun\AnW Latest-Updated\_output\Resources\Customers.Designer.cs
+E:\Project\DailyRun\AnW Latest-Updated\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\Data_Files\ProductMigration\ProductMigration.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Banking.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Accounts_Wallets\Betslip.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Poker\Banking.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\OR_Files\Poker\Regitration.xml
+E:\Project\DailyRun\AnW Latest-Updated\_output\Non IMS Suite.dll
+E:\Project\DailyRun\AnW Latest-Updated\_output\Non IMS Suite.pdb
+E:\Project\DailyRun\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+E:\Project\DailyRun\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+E:\Project\DailyRun\AnW Latest-Updated\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\AnW Latest-Updated-new\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\AnW Latest-Updated-new\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\AnW Latest-Updated-new\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_Mobile.xml
+D:\Genesis\AnW Latest-Updated-new\_output\chromedriver.exe
+D:\Genesis\AnW Latest-Updated-new\_output\IEDriverServer.exe
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\AnW Latest-Updated-new\_output\Resources\Customers.resx
+D:\Genesis\AnW Latest-Updated-new\_output\Resources\Customers.Designer.cs
+D:\Genesis\AnW Latest-Updated-new\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\AnW Latest-Updated-new\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\AnW Latest-Updated-new\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\AnW Latest-Updated-new\_output\Non IMS Suite.dll
+D:\Genesis\AnW Latest-Updated-new\_output\Non IMS Suite.pdb
+D:\Genesis\AnW Latest-Updated-new\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\AnW Latest-Updated-new\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\AnW Latest-Updated-new\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\IP2\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\IP2\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\IP2\_output\chromedriver.exe
+D:\Genesis\SVN\IP2\_output\IEDriverServer.exe
+D:\Genesis\SVN\IP2\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\IP2\_output\Resources\Customers.resx
+D:\Genesis\SVN\IP2\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\IP2\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\IP2\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\IP2\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\IP2\_output\Non IMS Suite.dll
+D:\Genesis\SVN\IP2\_output\Non IMS Suite.pdb
+D:\Genesis\SVN\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\SVN\IP2\_output\Data_Files\IP2\IP2_Test.xml
+E:\IP2_BAU\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+E:\IP2_BAU\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+E:\IP2_BAU\_output\chromedriver.exe
+E:\IP2_BAU\_output\IEDriverServer.exe
+E:\IP2_BAU\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+E:\IP2_BAU\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+E:\IP2_BAU\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSBonus.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSCommon.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+E:\IP2_BAU\_output\OR_Files\Ladbrokes_Header\Header.xml
+E:\IP2_BAU\_output\OR_Files\IMS Admin\IMSBase.xml
+E:\IP2_BAU\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+E:\IP2_BAU\_output\OR_Files\Telebet\TB2.xml
+E:\IP2_BAU\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+E:\IP2_BAU\_output\Resources\Customers.resx
+E:\IP2_BAU\_output\Resources\Customers.Designer.cs
+E:\IP2_BAU\_output\Data_Files\IP2\IP2_Test.xml
+E:\IP2_BAU\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+E:\IP2_BAU\_output\Data_Files\ProductMigration\ProductMigration.xml
+E:\IP2_BAU\_output\OR_Files\Accounts_Wallets\Banking.xml
+E:\IP2_BAU\_output\OR_Files\Accounts_Wallets\Betslip.xml
+E:\IP2_BAU\_output\OR_Files\Poker\Banking.xml
+E:\IP2_BAU\_output\OR_Files\Poker\Regitration.xml
+E:\IP2_BAU\_output\Non IMS Suite.dll
+E:\IP2_BAU\_output\Non IMS Suite.pdb
+E:\IP2_BAU\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+E:\IP2_BAU\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+E:\IP2_BAU\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\Ip2_14.11\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\Ip2_14.11\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\Ip2_14.11\_output\chromedriver.exe
+D:\Genesis\SVN\Ip2_14.11\_output\IEDriverServer.exe
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\Ip2_14.11\_output\Resources\Customers.resx
+D:\Genesis\SVN\Ip2_14.11\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\Ip2_14.11\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\Ip2_14.11\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\Ip2_14.11\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\Ip2_14.11\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\Ip2_14.11\_output\Non IMS Suite.dll
+D:\Genesis\SVN\Ip2_14.11\_output\Non IMS Suite.pdb
+D:\Genesis\SVN\Ip2_14.11\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\Ip2_14.11\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\SVN\Ip2_14.11\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Regression\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Regression\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Regression\_output\chromedriver.exe
+D:\Regression\_output\IEDriverServer.exe
+D:\Regression\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Regression\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Regression\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Regression\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Regression\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Regression\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Regression\_output\OR_Files\Telebet\TB2.xml
+D:\Regression\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Regression\_output\Resources\Customers.resx
+D:\Regression\_output\Resources\Customers.Designer.cs
+D:\Regression\_output\Data_Files\IP2\IP2_Test.xml
+D:\Regression\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Regression\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Regression\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Regression\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Regression\_output\OR_Files\Poker\Banking.xml
+D:\Regression\_output\OR_Files\Poker\Regitration.xml
+D:\Regression\_output\Non IMS Suite.dll
+D:\Regression\_output\Non IMS Suite.pdb
+D:\Regression\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Regression\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Regression\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\Ip2.23\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\Ip2.23\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\Ip2.23\_output\chromedriver.exe
+D:\Genesis\SVN\Ip2.23\_output\IEDriverServer.exe
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\Ip2.23\_output\Resources\Customers.resx
+D:\Genesis\SVN\Ip2.23\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\Ip2.23\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\Ip2.23\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\Ip2.23\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\Ip2.23\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\Ip2.23\_output\Non IMS Suite.dll
+D:\Genesis\SVN\Ip2.23\_output\Non IMS Suite.pdb
+D:\Genesis\SVN\Ip2.23\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\Ip2.23\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\SVN\Ip2.23\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+E:\IP2\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+E:\IP2\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+E:\IP2\_output\chromedriver.exe
+E:\IP2\_output\IEDriverServer.exe
+E:\IP2\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+E:\IP2\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+E:\IP2\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSBonus.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSCommon.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+E:\IP2\_output\OR_Files\Ladbrokes_Header\Header.xml
+E:\IP2\_output\OR_Files\IMS Admin\IMSBase.xml
+E:\IP2\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+E:\IP2\_output\OR_Files\Telebet\TB2.xml
+E:\IP2\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+E:\IP2\_output\Resources\Customers.resx
+E:\IP2\_output\Resources\Customers.Designer.cs
+E:\IP2\_output\Data_Files\IP2\IP2_Test.xml
+E:\IP2\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+E:\IP2\_output\Data_Files\ProductMigration\ProductMigration.xml
+E:\IP2\_output\OR_Files\Accounts_Wallets\Banking.xml
+E:\IP2\_output\OR_Files\Accounts_Wallets\Betslip.xml
+E:\IP2\_output\OR_Files\Poker\Banking.xml
+E:\IP2\_output\OR_Files\Poker\Regitration.xml
+E:\IP2\_output\Non IMS Suite.dll
+E:\IP2\_output\Non IMS Suite.pdb
+E:\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+E:\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+E:\IP2\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\AnW_new\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW_new\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW_new\_output\chromedriver.exe
+D:\Genesis\SVN\AnW_new\_output\IEDriverServer.exe
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW_new\_output\Resources\Customers.resx
+D:\Genesis\SVN\AnW_new\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW_new\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW_new\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW_new\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW_new\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW_new\_output\Non IMS Suite.dll
+D:\Genesis\SVN\AnW_new\_output\Non IMS Suite.pdb
+D:\Genesis\SVN\AnW_new\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW_new\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\SVN\AnW_new\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Telebet\TB2.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Genesis\SVN\AnW\_output\Resources\Customers.resx
+D:\Genesis\SVN\AnW\_output\Resources\Customers.Designer.cs
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\SW_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\IP2\IP2_Test.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Genesis\SVN\AnW\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Banking.xml
+D:\Genesis\SVN\AnW\_output\OR_Files\Poker\Regitration.xml
+D:\Genesis\SVN\AnW\_output\Non IMS Suite.dll
+D:\Genesis\SVN\AnW\_output\Non IMS Suite.pdb
+D:\Genesis\SVN\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Genesis\SVN\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Genesis\SVN\AnW\Non IMS Suite\obj\Debug\Non IMS Suite.pdb
+D:\Bit_IMS\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_stg.xml
+D:\Bit_IMS\_output\Data_Files\Accounts_Wallets\Accounts_Wallets_perf.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Mobile_Banking.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Mobile_Registration.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Playtech_Registration.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSBonus.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCommon.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCreateCustomer.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSCustDetails.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSSearchDatabase.xml
+D:\Bit_IMS\_output\OR_Files\Ladbrokes_Header\Header.xml
+D:\Bit_IMS\_output\OR_Files\IMS Admin\IMSBase.xml
+D:\Bit_IMS\_output\OR_Files\Mobile\VegasMobile_Banking.xml
+D:\Bit_IMS\_output\OR_Files\Telebet\TB2.xml
+D:\Bit_IMS\_output\OR_Files\Vegas Portal\VegasWeb_Registration.xml
+D:\Bit_IMS\_output\Resources\Customers.resx
+D:\Bit_IMS\_output\Resources\Customers.Designer.cs
+D:\Bit_IMS\_output\Data_Files\IP2\SW_Stage.xml
+D:\Bit_IMS\_output\Data_Files\IP2\SW_Test.xml
+D:\Bit_IMS\_output\Data_Files\IP2\IP2_Stage.xml
+D:\Bit_IMS\_output\Data_Files\IP2\IP2_Test.xml
+D:\Bit_IMS\_output\Data_Files\ProductMigration\ProductMigration_Perf.xml
+D:\Bit_IMS\_output\Data_Files\ProductMigration\ProductMigration.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Banking.xml
+D:\Bit_IMS\_output\OR_Files\Accounts_Wallets\Betslip.xml
+D:\Bit_IMS\_output\OR_Files\Poker\Banking.xml
+D:\Bit_IMS\_output\OR_Files\Poker\Regitration.xml
+D:\Bit_IMS\_output\Non IMS Suite.dll
+D:\Bit_IMS\_output\Non IMS Suite.pdb
+D:\Bit_IMS\Non IMS Suite\obj\Debug\Non IMS Suite.csprojResolveAssemblyReference.cache
+D:\Bit_IMS\Non IMS Suite\obj\Debug\Non IMS Suite.dll
+D:\Bit_IMS\Non IMS Suite\obj\Debug\Non IMS Suite.pdb

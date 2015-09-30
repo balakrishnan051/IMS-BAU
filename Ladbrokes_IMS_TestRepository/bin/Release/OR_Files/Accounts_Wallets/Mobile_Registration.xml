@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--Login-->
+  <id key="sidebar" value="sleft" />
+  <xpath key="LoginOrRegister" value="//div[@class='login-holder']//input[@value='Login/Register']" />
+  <xpath key="Logout" value="//a[contains(text(),'Logout')]" />
+
+  <!--Registration-->
+  <id key="Register" value="registeraccount" />  
+    
+</controls>

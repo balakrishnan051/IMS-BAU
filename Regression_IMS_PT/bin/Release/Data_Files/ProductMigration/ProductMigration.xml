@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester"/>
+  <regdata key="city" value="United Kingdom"/>
+  <regdata key="City_Web" value="Middx"/>
+  <regdata key="City_Mobile" value="Middx"/>
+  <regdata key="Password" value="Password1"/>
+  <regdata key="PromoCode" value="F50" />
+  <regdata key="eventID" value="AtEvent" />
+  <!-- Germany data-->
+  <regdata key="country_germany" value="Germany" />
+  <regdata key="currency_euro" value="EUR" />
+
+  <!--Bingo Login Data-->
+  <lgndata key="user" value="test_aditi_021" />
+  <lgndata key="pwd" value="Lbr12345678" />
+  <lgndata key="Fname" value="Testeruogrmagak" />
+  <!--Sports Login Data-->
+  <lgnsdata key="user" value="test_aditi_010" />
+  <lgnsdata key="pwd" value="Lbr12345678" />
+  <lgnsdata key="Fname" value="XYZ" />
+  <!--Deposit limit-->
+  <depLimt key="user" value="test_aditi_023" />
+  <depLimt key="pwd" value="Lbr12345678" />
+  <depLimt key="Fname" value="Testeruogqpaqba" />
+  <depLimt key="Amnt" value="251" />
+  <!--Responsible Gambling Data-->
+  <rgdata key="user" value="test_aditi_021" />
+  <rgdata key="pwd" value="Lbr12345678" />
+  <rgdata key="Fname" value="XYZ" />
+
+  
+
+  <!--Banking CC Data-->
+  <depdatacc key="user" value="test_aditi_004" />
+  <depdatacc key="pwd" value="Lbr12345678" />
+  <depdatacc key="CCard" value="4556529816506423" />
+  <depdatacc key="CCFname" value="Testeruogcmzz" />
+  <depdatacc key="CCAmt" value="12" />
+  <depdatacc key="depWallet" value="Gaming" />
+  <depdatacc key="withWallet" value="Sportsbook" />
+
+  <!--Banking netteller Data-->
+  <depdata key="user" value="test_aditi_022" />
+  <depdata key="pwd" value="Lbr12345678" />
+  <depdata key="CCFname" value="user" />
+  <depdata key="CCard" value="411392" />
+  <depdata key="CCAmt" value="12" />
+  <depdata key="depWallet" value="Gaming" />
+  <depdata key="withWallet" value="Games &amp; Lottos" />
+  <depdata key="FromWallet" value="Sportsbook" />
+  <depdata key="ToWallet" value="Gaming" />
+  <depdata key="TransWalletDropDown" value="Gaming;Sportsbook;Games" />
+  <depdata key="TransWalletTable" value="Gaming;Sportsbook;Games" />
+  <netdata key="account_id" value="458591047553" />
+  <netdata key="account_pwd" value="411392" />
+
+
+  <!--live dealer paypal Data -->
+  <paydata key="CCAmt" value="5" />
+  <paydata key="depWallet" value="Gaming" />
+  <paydata key="user_id" value="mehaksharma001@gmail.com" />
+  <paydata key="user_pwd" value="Aditi01*" />
+</controls>

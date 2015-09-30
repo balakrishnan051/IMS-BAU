@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<controls>
+
+  <!--CreateNewCustomer()-->
+
+  <!--xpath-->
+  <!--Index page-->
+  <xpath key="tryout_newlook_lnk" value="//a[contains(text(),'Try out the new look')]" />
+  <xpath key="TopFrame" value="//iFrame"/>
+  
+  <!--Create Customer page-->
+  <xpath key="firstnameerror_msg" value="//input[contains(@id,'firstname') and contains(@class,'invalid')]" />
+  <xpath key="lastnameerror_msg" value="//input[contains(@id,'lastname') and contains(@class,'invalid')]" />
+  <xpath key="addresserror_msg" value="//input[contains(@id,'address') and contains(@class,'invalid')]" />
+  <xpath key="phoneerror_msg" value="//input[contains(@id,'phone') and contains(@class,'invalid')]" />
+  <xpath key="ziperror_msg" value="//input[contains(@id,'zip') and contains(@class,'invalid')]" />
+  <xpath key="cityerror_msg" value="//input[contains(@id,'city') and contains(@class,'invalid')]" />
+  <xpath key="emailerror_msg" value="//input[contains(@id,'email') and contains(@class,'invalid')]" />
+  <xpath key="passworderror_msg" value="//input[contains(@id,'password') and contains(@class,'invalid')]" />
+  <xpath key="usernameerror_msg" value="//input[contains(@id,'username') and contains(@class,'invalid')]" />
+  <xpath key="countrycodeerror_msg" value="//select[contains(@id,'countrycode') and contains(@class,'invalid')]" />
+  <xpath key="skinerror_msg" value="//select[contains(@id,'skin') and contains(@class,'invalid')]" />
+  <xpath key="casinoerror_msg" value="//select[contains(@id,'casino') and contains(@class,'invalid')]" />
+  <xpath key="languagecodeerror_msg" value="//select[contains(@id,'languagecode') and contains(@class,'invalid')]" />
+  <xpath key="currencycodeerror_msg" value="//select[contains(@id,'currencycode') and contains(@class,'invalid')]" />
+  <xpath key="clientchannelcodeerror_msg" value="//select[contains(@id,'clientchannelcode') and contains(@class,'invalid')]" />
+  <xpath key="registereduser_lbl" value="//span[contains(@class,'username')]" />
+  <xpath key="CreditCust_Header" value="//span[@class='internal' and contains(string(),'CREDIT')]" />
+
+  <!--id-->
+  <!--Player Database-->
+  <id key="playermgmt_lnk" value="player_management_link" />
+  
+  <!--User Database-->
+  <id key="createplayer_btn" value="createplayer" />
+
+  <!--Create Customer page-->
+  <id key="casino_cmb" value="casino" />
+  <id key="skin_cmb" value="skin" />
+  <id key="title_txt" value="title" />
+  <id key="creditplayer_chk" value="iscreditplayer" />
+  <id key="firstname_txt" value="firstname" />
+  <id key="lastname_txt" value="lastname" />
+  <id key="fullfirstsurname_txt" value="fullfirstsurname" />
+  <id key="ageverification_cmb" value="ageverification" />
+  <id key="birthdateyear_cmb" value="birthdate_year" />
+  <id key="birthdatemonth_cmb" value="birthdate_month" />
+  <id key="birthdateday_cmb" value="birthdate_day" />
+  <id key="gender_cmb" value="gender" />
+  <id key="citizenship_cmb" value="citizenship" />
+  <id key="countrycode_cmb" value="countrycode" />
+  <id key="address_txt" value="address" />
+  <id key="phone_txt" value="phone" />
+  <id key="zip_txt" value="zip" />
+  <id key="city_txt" value="city" />
+  <id key="state_txt" value="state" />
+  <id key="birthprovince_txt" value="birthprovince" />
+  <id key="birthcity_txt" value="birthcity" />
+  <id key="cellphone_txt" value="cellphone" />
+  <id key="fax_txt" value="fax" />
+  <id key="occupation_txt" value="occupation" />
+  <id key="workphone_txt" value="workphone" />
+  <id key="email_txt" value="email" />
+  <id key="languagecode_cmb" value="languagecode" />
+  <id key="birthcountrycode_cmb" value="birthcountrycode" />
+  <id key="password_txt" value="password" />
+  <id key="username_txt" value="username" />
+  <id key="currencycode_cmb" value="currencycode" />
+  <id key="clientchannelcode_cmb" value="clientchannelcode" />
+  <id key="nickname_txt" value="nickname" />
+  <id key="verificationquestion_txt" value="verificationquestion" />
+  <id key="verificationanswer_txt" value="verificationanswer" />
+  <id key="createnewplayer_btn" value="createnewplayer" />
+  <id key="errormsg_lbl" value="message-error-1" />
+  <id key="displayuser_btn" value="submit"/>
+  <id key="CreditCust_Chk" value="iscreditplayer"/>
+  <id key="AgeVerification_DropDown" value="ageverification"/>
+  <id key="signup_time_period" value="period" />
+  
+
+  <!--Partial Link-->
+  <plink key="RealPlayerDb_lnk" value="Real player database" />
+
+  <id key="signupinfo" value="playerSignupDate" />
+
+</controls>
+

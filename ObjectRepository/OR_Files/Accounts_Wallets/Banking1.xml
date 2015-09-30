@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <link key="myAcct_lnk" value="My Account" />
+  <link key="change_Pwd_lnk" value="Change Password" />
+  <link key="personal_details_lnk" value="Personal details" />
+  <link key="responsible_gambling_lnk" value="Responsible Gambling" />
+  <link key="account_history_lnk" value="Account History" />
+  <id key="old_pwd_textBox" value="oldPassword" />
+  <id key="new_pwd_textBox" value="newPassword" />
+  <id key="new_Pwd_verify_textBox" value="newPasswordVerification" />
+  <id key="change_pwd_btn" value="changePassword" />
+  <id key="postcode_textBox" value="postCode" />
+  <id key="address_textBox" value="address" />
+  <id key="telephone_textBox" value="telephone" />
+  <id key="mobile_textBox" value="mobile" />
+  <id key="submit_personal_detail_btn" value ="_updatemydetails_WAR_accountportlet_updateMyDetailsSubmit" />
+  <xpath key="confirmation_text" value="//div[@id='p_p_id_updatemydetails_WAR_accountportlet_']/div/div/div/div/div" />
+
+  <name key="ToWallet" value="bank[amountTo]" />
+  <id key="title_ddn" value="title" />
+
+  <xpath key="title_error" value="//div[@class='form-label error']/label[contains(text(),'Title')]/span[@class='asterisk']" />
+  <xpath key="answer_error" value="//div[@class='form-label  error']/label[contains(text(),'Answer')]/span[@class='asterisk']" />
+  <xpath key="pwd_error" value="//div[@class='form-label  error']/label[@for='userPassword']/span[@class='asterisk']" />
+  <xpath key="securityQues_error" value="//div[@class='form-label error']/label[contains(text(),'Security')]/span[@class='asterisk']" />
+  <xpath key="email_error" value="//div[@class='form-label  error']/label[contains(text(),'Email')]/span[@class='asterisk']" />
+  <xpath key="uname_error" value="//div[@class='form-label  error']/label[contains(text(),'User Name')]/span[@class='asterisk']" />
+  <xpath key="pwdConfirm_error" value="//div[@class='form-label  error']/label[contains(text(),'Confirm Password')]/span[@class='asterisk']" />
+  <id key="log_button_UserName" value="welcome" />
+</controls>

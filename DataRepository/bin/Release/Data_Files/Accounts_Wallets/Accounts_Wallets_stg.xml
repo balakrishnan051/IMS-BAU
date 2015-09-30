@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<controls>
+  <!--Registration Data-->
+  <regdata key="Fname" value="Tester" />
+  <regdata key="country_UK" value="United Kingdom" />
+  <regdata key="City_Web" value="Harrow" />
+  <regdata key="City_Mobile" value="Middx" />
+  <regdata key="Password" value="Lbr123456" />
+  <regdata key="PromoCode" value="NELSON99" />
+  <!--<eventdata key="eventID" value="AutoEvt_UPHKMAVAK" />-->
+  <event key="fb_eID" value="220662659" />
+  <event key="fb_name" value="AutoEvt_UPIDSAOAN" />
+  <event key="fb_clname" value="betting/football/english" />
+  <event key="fb_amt" value="0.85" />
+  <eventID key="sel1" value="1/8" />
+  <!-- Other Country data-->
+  <regdata key="country_germany_german" value="Deutschland" />
+  <regdata key="country_Swedish_Swedan" value="Sverige" />
+  <regdata key="country_germany" value="Germany" />
+  <regdata key="country_uganda" value="Uganda" />
+  <regdata key="country_Russia" value="Russia" />
+  <regdata key="country_Netherlands" value="Netherlands" />
+  <regdata key="country_indonesia" value="Indonesia" />
+  <regdata key="country_Ireland" value="Ireland" />
+  <regdata key="currency_euro" value="EUR" />
+  <regdata key="currency_USD" value="USD" />
+  <regdata key="currency_AUD" value="AUD" />
+  <regdata key="country_UK_code" value="44" />
+  <regdata key="country_germany_code" value="49" />
+  <regdata key="countryCode_singapore" value="SG" />
+  <regdata key="countryCode_Germany" value="DE" />
+  <regdata key="country_Finland" value="Finland" />
+  <regdata key="countryCode_finland" value="FI" />
+  <regdata key="countryCode_uganda" value="UG" />
+  <regdata key="countryCode_Netherland" value="NL" />
+  <!--Bingo Login Data-->
+  <lgndata key="user" value="Userupiuttz" />
+  <lgndata key="pwd" value="Lbr123456" />
+  <lgndata key="Fname" value="Testeruogrmagak" />
+  <!--Sports bet Data-->
+  <betdata key="user" value="Userupiutoaa" />
+  <betdata key="pwd" value="Lbr123456" />
+  <betdata key="Fname" value="Testeruogrmagak" />
+  <!--Sports Login Data-->
+  <lgnsdata key="user" value="Userupiuttab" />
+  <lgnsdata key="pwd" value="Lbr123456" />
+  <lgnsdata key="Fname" value="XYZ" />
+  <!--Deposit limit-->
+  <depLimt key="user" value="Userupiutnf" />
+  <depLimt key="pwd" value="Lbr123456" />
+  <depLimt key="Fname" value="Testeruogqpaqba" />
+  <depLimt key="depWallet" value="Main Wallet" />
+  <depLimt key="Amnt" value="251" />
+  <!--Visa Credit Card Data-->
+  <vccdata key="user" value="Userupiutks" />
+  <vccdata key="pwd" value="Lbr123456" />
+  <vccdata key="CCFname" value="user" />
+  <vccdata key="CCard" value="4916764616228009" />
+  <vccdata key="CCAmt" value="10" />
+  <vccdata key="TCCAmt" value="18" />
+  <vccdata key="wAmt" value="5" />
+  <vccdata key="depWallet" value="Main Wallet" />
+  <vccdata key="depWallet_ex" value="Exchange" />
+  <vccdata key="depWallet_g" value="Games &amp; Lottos" />
+  <vccdata key="CVV" value="123" />
+  <!--Master Credit Card Data-->
+  <ccdata key="user" value="Userupiutma" />
+  <ccdata key="pwd" value="Lbr123456" />
+  <ccdata key="CCFname" value="user" />
+  <ccdata key="CCard" value="5190340334313912" />
+  <ccdata key="CCAmt" value="20" />
+  <ccdata key="wAmt" value="5" />
+  <ccdata key="depWallet" value="Main Wallet" />
+  <ccdata key="wWallet" value="Main Wallet" />
+  <ccdata key="depWallet_ex" value="Exchange" />
+  <ccdata key="depWallet_g" value="Games &amp; Lottos" />
+  <ccdata key="CVV" value="123" />
+  <!--Banking netteller Data-->
+  <depdata key="user" value="Userupitsoba" />
+  <depdata key="pwd" value="Lbr123456" />
+  <depdata key="CCFname" value="user" />
+  <depdata key="CCard" value="411392" />
+  <depdata key="CCAmt" value="12" />
+  <depdata key="wAmt" value="5" />
+  <depdata key="Wallet_Sports" value="Main Wallet" />
+  <depdata key="Wallet_Games" value="Games &amp; Lottos" />
+  <depdata key="depWallet" value="Main Wallet" />
+  <depdata key="withWallet" value="Main Wallet" />
+  <depdata key="FromWallet" value="Main Wallet" />
+  <depdata key="ToWallet" value="Games &amp; Lottos" />
+  <depdata key="TransWalletDropDown" value="Main Wallet;Games;Exchange" />
+  <depdata key="TransWalletTable" value="Main Wallet;Games;Exchange" />
+  <netdata key="account_id" value="458591047553" />
+  <netdata key="account_pwd" value="411392" />
+  <depdata key="AuditFromWallet" value="Exchange" />
+  <depdata key="AuditToWallet" value="Main Wallet" />
+  <depdata key="AuditAmt" value="5.11" />
+  <!--Quick Deposit-Banking netteller Data-->
+  <qdepdata key="account_id" value="458591047553" />
+  <qdepdata key="account_pwd" value="411392" />
+  <qdepdata key="user" value="Userupiutpax" />
+  <qdepdata key="pwd" value="Lbr123456" />
+  <qdepdata key="wAmt" value="20" />
+  <qdepdata key="depWallet" value="Main Wallet" />
+  <qdepdata key="ToWallet" value="Main Wallet" />
+  <!--<netdata key="account_id" value="453501020503" />
+  <netdata key="account_pwd" value="908379" />-->
+  <!--Paypal Data -->
+  <!--mehaksharma001@gmail.com  Aditi01*-->
+  <paydata key="CCAmt" value="5" />
+  <paydata key="QAmt" value="20" />
+  <paydata key="Amt_USD" value="20" />
+  <paydata key="wAmt" value="5" />
+  <paydata key="depWallet" value="Main Wallet" />
+  <paydata key="user_id" value="bnkcrd_1316189878_per@ladbrokes.co.uk" />
+  <paydata key="user_pwd" value="1q2w3e4r" />
+  <paydata key="user_id_USD" value="bnkcrd_1316189878_per@ladbrokes.co.uk" />
+  <paydata key="user_pwd_USD" value="1q2w3e4r" />
+  <!--Paysafe Data -->
+  <paysafedata key="Paysafe_pin1" value="0000" />
+  <paysafedata key="Paysafe_pin2" value="0000" />
+  <paysafedata key="Paysafe_pin3" value="0990" />
+  <paysafedata key="Paysafe_pin4" value="1970" />
+  <paysafedata key="DepWallet" value="Main Wallet" />
+  <paysafedata key="DepAmt" value="20.00" />
+  <paysafedata key="wAmt" value="20.00" />
+  <!--BankDraft Data -->
+  <bddata key="WalletName" value="Main Wallet" />
+  <!--Cash Data -->
+  <cashdata key="WalletName" value="Exchange" />
+  <!--WesternUnion Data -->
+  <wudata key="WalletName" value="Games &amp; Lottos" />
+  <!--Qiwi/Webmoney Data -->
+  <qiwidata key="DepWallet" value="Main Wallet" />
+  <qiwidata key="phone" value="9994443233" />
+  <qiwidata key="DepAmt" value="20.00" />
+  <!--BetCard Data -->
+  <bcdata key="DepWallet" value="Games &amp; Lottos" />
+  <bcdata key="DepAmt" value="20.00" />
+  <bcdata key="wAmt" value="5.00" />
+  <!--Skrill Data -->
+  <skrilldata key="WalletName" value="Games &amp; Lottos" />
+  <skrilldata key="DepAmt" value="20.00" />
+  <skrilldata key="wAmt" value="5.00" />
+  <skrilldata key="user_id" value="lad.brokestester@gmail.com" />
+  <skrilldata key="user_pwd" value="ladgbp@mb" />
+  <!--eNets Data -->
+  <eNetsdata key="WalletName" value="Games &amp; Lottos" />
+  <eNetsdata key="DepAmt" value="5.00" />
+  <eNetsdata key="user_id" value="charlotte.fitzgibbon@ladbrokes.co.uk" />
+  <eNetsdata key="user_pwd" value="skr!11enets00" />
+  <!--General Payment Data -->
+  <genPaydata key="WalletName" value="Games &amp; Lottos" />
+  <genPaydata key="DepAmt" value="5.00" />
+  <genPaydata key="wAmt" value="5.00" />
+  <!--Telebet netteller Data-->
+  <Teldata key="user" value="test_uAuto_53" />
+  <Teldata key="pwd" value="Lbr123456" />
+  <Teldata key="CCAmt" value="12" />
+  <Teldata key="wAmt" value="5" />
+  <Teldata key="depWallet" value="Main Wallet" />
+  <Teldata key="withWallet" value="Main Wallet" />
+  <Teldata key="FromWallet" value="Sportsbook" />
+  <Teldata key="ToWallet" value="Main Wallet" />
+  <Teldata key="TransWalletDropDown" value="Main Wallet;Exchange;Games" />
+  <Teldata key="TransWalletTable" value="Main Wallet;Exchange;Games" />
+  <Teldata key="account_id" value="453501020503" />
+  <Teldata key="account_pwd" value="908379" />
+  <!--EntroPay Card Data-->
+  <epdata key="CCard" value="4101626460636816" />
+  <epdata key="CCAmt" value="1" />
+  <epdata key="wAmt" value="5" />
+  <epdata key="depWallet" value="Main Wallet" />
+  <epdata key="depWallet_ex" value="Exchange" />
+  <!--Bonus data-->
+  <bonus key="depoWallet" value="Main Wallet" />
+  <bonus key="bonusWallet" value="Main Wallet" />
+  <bonus key="depoAmnt" value="10" />
+  <bonus key="depoAmnt2" value="5" />
+  <bonus key="depBonus" value="AutoDepoPromo" />
+  <bonus key="depoProm" value="NELSON99" />
+  <bonus key="regBonus" value="AutoSignupDepo" />
+  <bonus key="regProm" value="SIGNBON1" />
+  <bonus key="betBonus" value="AutomationSUPromoDeposit01" />
+  <bonus key="betProm" value="LADBROK12" />
+  <bonus key="signup" value="SignupReg_Auto" />
+  <bonus key="signup_amt" value="1.10" />
+  <bonus key="betDepAmt" value="20" />
+  <bonus key="stake" value="10" />
+  <bonus key="stake_Negative" value="2" />
+  <bonus key="selectionOdd" value="1/8" />
+  <bonus key="selectionOdd_Negative" value="1/15" />
+  <bonus key="bet_value" value="16.66" />
+  <bonus key="First_deposit_bonus" value="Newdeposit" />
+  <bonus key="First_deposit_depoWallet" value="Main Wallet" />
+  <!--Auto Top up -->
+  <autodata key="user" value="Userupiutrg" />
+  <autodata key="pwd" value="Lbr123456" />
+  <!--AV Status -->
+  <avdata key="user" value="Userupiutsv" />
+  <avdata key="pwd" value="Lbr123456" />
+  <avdata key="depWallet_ex" value="Exchange" />
+  <avdata key="depWallet_gm" value="Main Wallet" />
+  <avdata key="depWallet_gme" value="Games &amp; Lottos" />
+  <!--Sofort Data -->
+  <sofdata key="depAmt" value="20" />
+  <sofdata key="wAmt" value="5" />
+  <sofdata key="depWallet" value="Main Wallet" />
+  <sofdata key="Acct" value="12345678" />
+  <sofdata key="PIN" value="88888888" />
+  <sofdata key="code" value="88888888" />
+  <sofdata key="wPayee" value="Warnecke Hans-Gerd" />
+  <sofdata key="wBankName" value="Demo Bank" />
+  <sofdata key="wIBAN" value="DE52000000000012345678" />
+  <sofdata key="wSWIFTBIC" value="SFRTDE20XXX" />
+  <sofdata key="wCountry" value="Germany" />
+  <!--GiroPay Data -->
+  <girodata key="depAmt" value="20" />
+  <girodata key="wAmt" value="5" />
+  <girodata key="depWallet" value="Main Wallet" />
+  <girodata key="SwiftBIC" value="GENODETT488" />
+  <girodata key="sc" value="10" />
+  <girodata key="esc" value="4000" />
+  <!--Ideal Data -->
+  <idealdata key="depAmt" value="20" />
+  <idealdata key="wAmt" value="5" />
+  <idealdata key="depWallet" value="Main Wallet" />
+  <!--First Deposit CC_Duplicate  Data -->
+  <dupdata key="CreditCd" value="5333350575200205" />
+  <!--ManualCorrection-->
+  <!--<mc key="addBalance" value="Cash Deposit" />-->
+  <mc key="addBalance" value="Sportsbook Increase To Balance" />
+  <mc key="withdrawBalance" value="Withdrawal correction" />
+  <mc key="TransactionType_Add" value="Player balance correction deposit" />
+  <mc key="TransactionType_With" value="Player balance correction withdraw" />
+</controls>

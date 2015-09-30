@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<controls>
+  <!--LoginPage-->
+
+  <id key="username" value="username" />
+  <name key="password" value="password" />
+  <id key="terminalcode" value="term_code" />
+  <id key="submit" value="login_submit" />
+
+  <id key="searchacc" value="searchAccount" />
+  <id key="customername" value="accNoValueTxtBox" />
+  <id key="acctMenuDep" value="acctMenuDep" />
+
+</controls>
